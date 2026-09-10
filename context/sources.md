@@ -25,7 +25,13 @@ Use these as productive starting points, not as an exhaustive market list. Open 
 | Poland / Romania | [Pracuj.pl](https://www.pracuj.pl/), [AlpAccess careers](https://www.alpaccess.com/careers.html) |
 | European wind/offshore | [Muehlhan careers](https://techcareer.muehlhan.com/jobs/), [Swire Renewable Energy](https://jobs.swire-re.com/), [JobAtSea](https://jobatsea.online/) |
 
-## Local terms and hidden-role cues
+## Mandatory terminology and portal rules
+
+After English baselines, use these established trade terms: France/Wallonia/French Switzerland `cordiste`; Italy `su fune`, `in fune`, `tecnico fune` (not cordista); Germany/Austria/German Switzerland `Industriekletterer` (not literal Seilzugangstechniker); Portugal `acesso por cordas`; Norway `tilkomstteknikk`; Sweden `reparbetare`; Romania `alpinism utilitar`; Poland `alpinista przemysłowy`, `technik dostępu linowego`; Spain `trabajos verticales`, `técnico vertical IRATA`. English baselines work in the Netherlands. Verify any additional local term before relying on it. Broader height-work terms are supplementary only; in Portugal do not substitute trabalhos em altura/trabalhos verticais for acesso por cordas.
+
+Romania: also seek the actual official sites of TheRock Construct and Alpinmax, alongside AlpAccess; no guessed URLs. Use country-wide Indeed geography, broad LinkedIn discovery, and record login walls explicitly. Fuzzy unrelated results on jobs.ch or Jobindex are a portal limitation, not vacancies. Check hidden blade/LPS/composite roles including Rotorblatt, pás and palas; inspect descriptions and retain missing-experience stretches.
+
+## Additional terms and hidden-role cues — verify unfamiliar terms before use
 
 | Country | Terms/cues |
 |---|---|
