@@ -5,9 +5,9 @@ Use only these non-identifying professional criteria.
 ## Confirmed
 
 - IRATA Level 1.
-- Relevant background in rope access, advanced rigging, scaffolding, crane/lifting support and mechanical/industrial work.
-- EU work-right-compatible roles are preferred; verify any country-, offshore- or site-specific authorization separately.
-- English-language work is preferred. Record each advert's language requirement and never assume another language.
+- Relevant background in rope access, rigging, scaffolding, crane/lifting support and mechanical/industrial work.
+- EU free-movement work rights; Switzerland/Norway mobility eligibility. Do not assume UK work permission; verify offshore/site-specific requirements separately.
+- Portuguese native, English fluent, Spanish intermediate. Record advert language requirements; do not infer Dutch, German or Scandinavian fluency.
 
 ## Gaps and unconfirmed criteria
 
