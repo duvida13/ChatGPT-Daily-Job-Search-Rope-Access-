@@ -1,7 +1,7 @@
 # Public job index
 
-Version: **2026-09-13 v1**  
-Stable IDs: **142 distinct records (RA-001–RA-142)**
+Version: **2026-09-14 v1**  
+Stable IDs: **148 distinct records (RA-001–RA-148)**
 
 This index preserves canonical public job identity for deduplication. Historical records are not 142 live vacancies. Status is the last recorded public state and must be revalidated on cadence. No application or private candidate data is stored here.
 
@@ -27,7 +27,7 @@ This index preserves canonical public job identity for deduplication. Historical
 | RA-018 | RTS Wind UK | Rope Access Blade Technicians | UK | UK onshore | [source](https://uk.linkedin.com/company/rts-wind-ltd) | needs-revalidation | 2026-08-12 |
 | RA-019 | Swire Renewable Energy | Blade Technician season 2026 | UK | London / remote deployment | [source](https://uk.indeed.com/viewjob?jk=e2657b103f9650dc) | needs-revalidation | 2026-08-12 |
 | RA-020 | Smith Services | Rope Access Technician Window Cleaning | UK | West Midlands | [source](https://irata.org/jobs) | needs-revalidation | 2026-08-12 |
-| RA-021 | Bidvest Noonan | Rope Access Technician – Industrial Cleaning | Ireland | Swords, County Dublin | [source](https://ie.indeed.com/viewjob?jk=d7bcfa479b2d6fd9) | needs-revalidation | 2026-08-12 |
+| RA-021 | Bidvest Noonan | Rope Access Technician – Industrial Cleaning | Ireland | Swords, County Dublin | [source](https://ie.indeed.com/viewjob?jk=d7bcfa479b2d6fd9) | live | 2026-09-14 |
 | RA-022 | Sky-Access | Rope Access Technician | Netherlands | Roosendaal; national/international projects | [source](https://sky-access.com/vacatures/) | needs-revalidation | 2026-08-12 |
 | RA-023 | Sky-Access | Rope Access Technician / Supervisor | Netherlands | Roosendaal | [source](https://sky-access.com/vacatures/) | needs-revalidation | 2026-08-12 |
 | RA-024 | Fender BV | Rope Access Technician | Netherlands | Netherlands, onshore/offshore | [source](https://fenderbv.nl/vacatures/rope-access-technician/) | live | 2026-09-13 |
@@ -149,3 +149,9 @@ This index preserves canonical public job identity for deduplication. Historical
 | RA-140 | Bilfinger ISP Offshore Norway AS | Stillasbygger med fagbrev til Kårstø | Norway | Tysværvåg/Kårstø | [source](https://jobs.bilfinger.com/go/Stillinger-innen-stillas-og-isolering-hos-Bilfinger/3755901/) | live | 2026-09-13 |
 | RA-141 | Vyn AB | Jobba som reptekniker | Sweden | Malmö base; occasional Swedish travel | [source](https://vyn.se/karriar/reparbetare) | live | 2026-09-13 |
 | RA-142 | Vyn AB | Erfaren reparbetare, SPRAT/IRATA Level 3 | Sweden | Malmö base; occasional Swedish travel | [source](https://vyn.se/karriar/erfaren-reparbetare) | live | 2026-09-13 |
+| RA-143 | GH Interim / client | Cordiste (H/F/X) | Luxembourg | Luxembourg-wide industrial, building and public-works sites | [source](https://www.ghinterim.lu/offres-d-emploi/offres-emploi-cordiste-h-f-x-1479944-41.html) | live | 2026-09-14 |
+| RA-144 | StS Resources & Technology | Rope Access Technicians | Norway | Long-term projects in Norway | [source](https://stsgroupuk.co.uk/news/were-recruiting-rope-access-technicians) | live | 2026-09-14 |
+| RA-145 | High Torque Rope Access | IRATA Level 1 & 2 Operatives | United Kingdom | UK site-based; travel required | [source](https://hightorqueropeaccess.co.uk/careers/) | live | 2026-09-14 |
+| RA-146 | CAN Group | Multi-skilled Rope Access Technicians | United Kingdom | Barrow-in-Furness; October–December 2026 rotation | [source](https://uk.linkedin.com/jobs/view/multi-skilled-rope-access-technicians-at-can-group-4464340362) | live | 2026-09-14 |
+| RA-147 | Rainey Restoration | Rope Access Technicians IRATA Levels 1, 2 & 3 | United Kingdom / Ireland | Upcoming projects across Northern and Republic of Ireland | [source](https://uk.linkedin.com/jobs/view/rope-access-technicians-irata-levels-1-2-3-at-rainey-restoration-4465803985) | live | 2026-09-14 |
+| RA-148 | SEP Culant | Rope Access Fire Stopper | United Kingdom | Sunderland; 4–6 weeks from 7 September 2026 | [source](https://uk.linkedin.com/jobs/view/rope-access-fire-stopper-at-sep-culant-4462788225) | live | 2026-09-14 |
