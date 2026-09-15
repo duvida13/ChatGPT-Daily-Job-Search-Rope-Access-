@@ -1,9 +1,9 @@
 # Public job index
 
-Version: **2026-09-14 v1**  
-Stable IDs: **148 distinct records (RA-001–RA-148)**
+Version: **2026-09-15 v1**  
+Stable IDs: **150 distinct records (RA-001–RA-150)**
 
-This index preserves canonical public job identity for deduplication. Historical records are not 142 live vacancies. Status is the last recorded public state and must be revalidated on cadence. No application or private candidate data is stored here.
+This index preserves canonical public job identity for deduplication. Historical records are not 150 live vacancies. Status is the last recorded public state and must be revalidated on cadence. No application or private candidate data is stored here.
 
 | ID | Company | Role | Country | Locality/scope | Canonical public source | Status | Last verified |
 |---|---|---|---|---|---|---|---|
@@ -34,8 +34,8 @@ This index preserves canonical public job identity for deduplication. Historical
 | RA-025 | Altrad Services BV | Pipeline Repair / Leak-Sealing Technician | Netherlands | Drachten | [source](https://nl.indeed.com/q-rope-access-technician-vacatures.html) | needs-revalidation | 2026-08-12 |
 | RA-026 | Griesemann Anlagentechnik | Industriekletterer | Germany | Wesseling, North Rhine-Westphalia | [source](https://www.make-it-in-germany.com/en/working-in-germany/job-listings/job/job-10001-1002776213-S) | needs-revalidation | 2026-08-12 |
 | RA-027 | RTS Wind | Industriekletterer Rotorblattreparaturen | Germany | Bremen | [source](https://portal.oproma.de/jobs/industriekletterer-all-genders-rotorblattreparaturen-ID-5909183) | needs-revalidation | 2026-08-12 |
-| RA-028 | RTS Wind | Offshore Industriekletterer Windenergie | Germany | North/Baltic Sea projects | [source](https://portal.oproma.de/jobs/offshore-industriekletterer-all-genders-windenergie-ID-5909142) | needs-revalidation | 2026-08-12 |
-| RA-029 | RTS Wind | Senior Rope Access Technician | Germany / Europe | Germany plus Portugal, UK and Austria companies; Europe-wide projects | [source](https://www.rts-wind.com/careers/senior-rope-access-technician/) | needs-revalidation | 2026-08-12 |
+| RA-028 | RTS Wind | Offshore Industriekletterer Windenergie | Germany | North/Baltic Sea projects | [source](https://portal.oproma.de/jobs/offshore-industriekletterer-all-genders-windenergie-ID-5909142) | live | 2026-09-15 |
+| RA-029 | RTS Wind | Senior Rope Access Technician | Germany / Europe | Germany plus Portugal, UK and Austria companies; Europe-wide projects | [source](https://www.rts-wind.com/careers/senior-rope-access-technician/) | live | 2026-09-15 |
 | RA-030 | Vestas | Service Technician – Blades near Berchtesgaden | Germany | Berchtesgaden region | [source](https://de.indeed.com/q-rope-access-technician-jobs.html) | needs-revalidation | 2026-08-12 |
 | RA-031 | Vestas | Blade Technician for Wind Turbine Blades | Germany | Vogelsdorf | [source](https://de.indeed.com/q-rope-access-technician-jobs.html) | needs-revalidation | 2026-08-12 |
 | RA-032 | Ventotec Solution | Industriekletterer Rotorblatt Level 1–3 Seil & Bühne | Germany | Rostock | [source](https://www.stepstone.de/jobs/industriekletterer) | needs-revalidation | 2026-08-12 |
@@ -59,7 +59,7 @@ This index preserves canonical public job identity for deduplication. Historical
 | RA-050 | LPA | Couvreur-zingueur cordiste | France | Castanet-Tolosan | [source](https://candidat.francetravail.fr/offres/recherche/detail/212BRJB) | needs-revalidation | 2026-08-12 |
 | RA-051 | Profil Energy / Jarnias | Formation Technicien cordiste nucléaire | France | Pierrelatte | [source](https://candidat.francetravail.fr/offres/recherche/detail/212BCKP) | needs-revalidation | 2026-08-12 |
 | RA-052 | Crit Interim | Technicien cordiste | France | Lourdes | [source](https://candidat.francetravail.fr/offres/recherche/detail/211ZQVL) | needs-revalidation | 2026-08-12 |
-| RA-053 | STS | Rope Access Technicians | Norway | Norway, long-term projects | [source](https://www.stsgroupuk.co.uk/news/were-recruiting-rope-access-technicians) | needs-revalidation | 2026-08-12 |
+| RA-053 | STS | Rope Access Technicians | Norway | Norway, long-term projects | [source](https://www.stsgroupuk.co.uk/news/were-recruiting-rope-access-technicians) | live | 2026-09-15 |
 | RA-054 | Hytech | Tilkomstteknikk – fagfolk i tau | Norway | Norwegian on/offshore projects | [source](https://hytech.no/) | needs-revalidation | 2026-08-12 |
 | RA-055 | Swire Renewable Energy | Rope Access NDT Technicians | Denmark | Offshore Denmark; base listed as Lystrup | [source](https://jobs.swire-re.com/o/rope-access-ndt-technicians) | live | 2026-09-13 |
 | RA-056 | BlackLine | Operatore su fune | Italy | Genoa | [source](https://it.indeed.com/offerte-lavoro?lang=it&q=fune) | needs-revalidation | 2026-08-12 |
@@ -150,8 +150,10 @@ This index preserves canonical public job identity for deduplication. Historical
 | RA-141 | Vyn AB | Jobba som reptekniker | Sweden | Malmö base; occasional Swedish travel | [source](https://vyn.se/karriar/reparbetare) | live | 2026-09-13 |
 | RA-142 | Vyn AB | Erfaren reparbetare, SPRAT/IRATA Level 3 | Sweden | Malmö base; occasional Swedish travel | [source](https://vyn.se/karriar/erfaren-reparbetare) | live | 2026-09-13 |
 | RA-143 | GH Interim / client | Cordiste (H/F/X) | Luxembourg | Luxembourg-wide industrial, building and public-works sites | [source](https://www.ghinterim.lu/offres-d-emploi/offres-emploi-cordiste-h-f-x-1479944-41.html) | live | 2026-09-14 |
-| RA-144 | StS Resources & Technology | Rope Access Technicians | Norway | Long-term projects in Norway | [source](https://stsgroupuk.co.uk/news/were-recruiting-rope-access-technicians) | live | 2026-09-14 |
+| RA-144 | StS Resources & Technology | Rope Access Technicians | Norway | Long-term projects in Norway | [source](https://stsgroupuk.co.uk/news/were-recruiting-rope-access-technicians) | duplicate-of-RA-053 | 2026-09-15 |
 | RA-145 | High Torque Rope Access | IRATA Level 1 & 2 Operatives | United Kingdom | UK site-based; travel required | [source](https://hightorqueropeaccess.co.uk/careers/) | live | 2026-09-14 |
 | RA-146 | CAN Group | Multi-skilled Rope Access Technicians | United Kingdom | Barrow-in-Furness; October–December 2026 rotation | [source](https://uk.linkedin.com/jobs/view/multi-skilled-rope-access-technicians-at-can-group-4464340362) | live | 2026-09-14 |
 | RA-147 | Rainey Restoration | Rope Access Technicians IRATA Levels 1, 2 & 3 | United Kingdom / Ireland | Upcoming projects across Northern and Republic of Ireland | [source](https://uk.linkedin.com/jobs/view/rope-access-technicians-irata-levels-1-2-3-at-rainey-restoration-4465803985) | live | 2026-09-14 |
 | RA-148 | SEP Culant | Rope Access Fire Stopper | United Kingdom | Sunderland; 4–6 weeks from 7 September 2026 | [source](https://uk.linkedin.com/jobs/view/rope-access-fire-stopper-at-sep-culant-4462788225) | live | 2026-09-14 |
+| RA-149 | CGS Nordic AB | Rope Technicians | Sweden | Gothenburg / Sweden-wide projects | [source](https://jobbland.se/jobb/vi-anstaller-fler-reptekniker-sasrb-20480883) | live | 2026-09-15 |
+| RA-150 | Vestas | Blade Technician for Wind Turbine Blades | Austria | Parndorf, Lower Austria | [source](https://careers.vestas.com/job/Wien-Blade-Technician-%28mwd%29-for-Wind-Turbines-Blades-in-Parndorf-Lowe/1400329433/) | live | 2026-09-15 |
