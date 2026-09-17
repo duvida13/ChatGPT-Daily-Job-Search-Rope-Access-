@@ -1,14 +1,14 @@
 # Public job index
 
-Version: **2026-09-16 v1**  
-Stable IDs: **156 distinct records (RA-001–RA-156)**
+Version: **2026-09-17 v1**  
+Stable IDs: **161 distinct records (RA-001–RA-161)**
 
 This index preserves canonical public job identity for deduplication. Historical records are not 156 live vacancies. Status is the last recorded public state and must be revalidated on cadence. No application or private candidate data is stored here.
 
 | ID | Company | Role | Country | Locality/scope | Canonical public source | Status | Last verified |
 |---|---|---|---|---|---|---|---|
 | RA-001 | M M Branco Unipessoal | Técnico de Acesso por Cordas (Alpinista de Construção Civil) | Portugal | Lisbon area | [source](https://www.net-empregos.com/15358165/tecnico-de-acesso-por-cordas-alpinista-de-construcao-civil/) | needs-revalidation | 2026-08-12 |
-| RA-002 | Eix Grup | Operario Trabajos Verticales | Spain | Barcelona Province | [source](https://www.anetva.org/oferta-de-empleo/operario-trabajos-verticales-3/) | needs-revalidation | 2026-08-12 |
+| RA-002 | Eix Grup | Operario Trabajos Verticales | Spain | Barcelona Province | [source](https://www.anetva.org/oferta-de-empleo/operario-trabajos-verticales-3/) | live | 2026-09-17 |
 | RA-003 | Moncaser | Técnico de acceso por cuerdas y en altura | Spain | Santiago Bernabéu, Madrid | [source](https://www.anetva.org/oferta-de-empleo/tecnico-de-acceso-por-cuerdas-trabajos-verticales-y-en-altura/) | needs-revalidation | 2026-08-12 |
 | RA-004 | Aprolan 21 | Oficial de Primera con Trabajos Verticales | Spain | Mundaka, Vizcaya | [source](https://www.anetva.org/oferta-de-empleo/oficial-de-primera-con-trabajos-verticales-2/) | needs-revalidation | 2026-08-12 |
 | RA-005 | Abantos Vertical | Rescatador, Trabajos Verticales y Trabajos en Altura | Spain | Madrid | [source](https://www.anetva.org/oferta-de-empleo/rescatador-trabajos-verticales-y-trabajos-en-altura/) | needs-revalidation | 2026-08-12 |
@@ -41,7 +41,7 @@ This index preserves canonical public job identity for deduplication. Historical
 | RA-032 | Ventotec Solution | Industriekletterer Rotorblatt Level 1–3 Seil & Bühne | Germany | Rostock | [source](https://www.stepstone.de/jobs/industriekletterer) | needs-revalidation | 2026-08-12 |
 | RA-033 | GMA-Werkstoffprüfung | Höhenkletterer nach IRATA / FISAT | Germany | Gelsenkirchen | [source](https://bebee.com/de/jobs/hohenkletterer-nach-irata-fisat-gma-werkstoffprufung-gmbh-gelsenkirchen--theirstack-709679718) | needs-revalidation | 2026-08-12 |
 | RA-034 | Future Services | On/Offshore Rope Access Technician | Belgium | Bredene / varied projects | [source](https://futureservices.eu/your-career/) | live | 2026-09-13 |
-| RA-035 | Groupe NA | Technicien Cordiste H/F | Belgium | Mouscron | [source](https://be.linkedin.com/jobs/view/technicien-cordiste-h-f-at-groupe-na-%F0%9F%8C%90-4401479489) | live | 2026-09-11 |
+| RA-035 | Groupe NA / BTH | Technicien Cordiste H/F | Belgium | Mouscron | [source](https://be.linkedin.com/jobs/view/technicien-cordiste-h-f-at-groupe-na-%F0%9F%8C%90-4465766512) | live | 2026-09-17 |
 | RA-036 | Devers | Technicienne / Technicien cordiste | France | Le Havre | [source](https://www.devers.fr/emploi/technicienne-technicien-cordiste-le-havre/) | needs-revalidation | 2026-08-12 |
 | RA-037 | ANCY Rope Access | Technicien cordiste | France | Rhône-Alpes / Savoie | [source](https://ancyropeaccess.com/fr/page/recrutement) | needs-revalidation | 2026-08-12 |
 | RA-038 | Job & Vous | Cordiste | France | Castanet-Tolosan | [source](https://candidat.francetravail.fr/offres/recherche/detail/212JFZD) | needs-revalidation | 2026-08-12 |
@@ -83,7 +83,7 @@ This index preserves canonical public job identity for deduplication. Historical
 | RA-074 | Seven Rope Access | Alpinista predial | Portugal | Coimbra | [source](https://pt.linkedin.com/jobs/view/alpinista-predial-at-seven-rope-access-4378281404) | needs-revalidation | 2026-08-12 |
 | RA-075 | Dreamwork Solutions | Tilkomstteknikere søkes – Spennende oppdrag i høyden! | Norway | Norway, onshore/offshore | [source](https://www.finn.no/452673357) | expired | 2026-09-11 |
 | RA-076 | StS-ISONOR | Tilkomstteknikere og sikringsledere | Norway | Norway | [source](https://www.finn.no/456090110) | expired | 2026-09-11 |
-| RA-077 | SafeReach AB | Erfaren Reparbetare / Rope Access tekniker / Industriklättrare | Sweden | Stockholm | [source](https://se.indeed.com/q-irata-jobb.html?vjk=9071a2792a9ac4c2) | needs-revalidation | 2026-08-12 |
+| RA-077 | SafeReach AB | Rope Access technician candidate pool | Sweden | Stockholm / Sweden-wide | [source](https://safereach.se/jobba-hos-oss/) | generic-pool/not-active | 2026-09-17 |
 | RA-078 | Altrad Alpha Recruitment | IRATA Level 3 Blade Repair – Team Leads & Assistants | Denmark | Denmark | [source](https://www.linkedin.com/posts/atrad-alpha-recruitment_hiring-now-irata-level-3-blade-repair-activity-7454488617739141120-D_hw) | needs-revalidation | 2026-08-12 |
 | RA-079 | Altrad Alpha Recruitment | Blade Technicians L1, L2, L3 – Cat 4–5 Repairs | Denmark | Denmark | [source](https://www.linkedin.com/posts/victoria-brooke-b47ab320_hiring-now-blade-technicians-l1-l2-l3-activity-7408612709656584193-Jsaw) | needs-revalidation | 2026-08-12 |
 | RA-080 | Global Wind Service | Complex Blade Repair Technicians | Denmark | Fredericia / worldwide projects | [source](https://jobsinenglish.dk/ads/global-wind-service-complex-blade-repair-technicians-20260211/) | live | 2026-09-11 |
@@ -124,7 +124,7 @@ This index preserves canonical public job identity for deduplication. Historical
 | RA-115 | AD HOC Interim et Recrutement | Ouvrier cordiste F/H/X | France | Marseille / PACA | [source](https://adhocinterimetrecrutement.flatchr.io/fr/company/adhocinterimetrecrutement/vacancy/d3nvzdqpe8kpmyb6-ouvrier-cordiste-f-h-x/) | live | 2026-09-08 |
 | RA-116 | SPIE Wind | Wind Turbine Rope Access Technician – Rotor Blades m/f/d | Germany | Bremen; Germany and European projects | [source](https://spie.de/karriere/stellenangebote/Wind-Turbine-Rope-Access-Technician--Rotor-Blades-m-f-d-2026-1495) | live | 2026-09-08 |
 | RA-117 | Klätterservice AB | Level 3 - erfaren reparbetare/supervisor | Sweden | Stockholm | [source](https://jobb.klatterservice.se/jobs/858913-level-3-erfaren-reparbetare-supervisor) | live | 2026-09-13 |
-| RA-118 | Beerenberg | Faglærte og erfarne industrimalere | Norway | Norwegian offshore projects; exact installation not stated | [source](https://beerenberg.com/om-beerenberg/karriere/ledige-stillinger/) | live | 2026-09-13 |
+| RA-118 | Beerenberg | Faglærte og erfarne industrimalere | Norway | Norwegian offshore projects; exact installation not stated | [source](https://beerenberg.com/om-beerenberg/karriere/ledige-stillinger/) | live | 2026-09-17 |
 | RA-119 | SubC Partner | Stillads / Riggere til fast offshore rotation - 2 årigt projekt | Denmark | North Sea offshore; employer based in Esbjerg | [source](https://www.subcpartner.com/career/job-at-subc-partner/job/295243) | live | 2026-09-13 |
 | RA-120 | ATI | ALLROUND ONDERHOUDSMEDEWERKER / ROPE ACCESS TECHNICIAN | Netherlands | Sint Nicolaasga; Netherlands-wide projects | [source](https://www.abseiltechnieken.nl/vacatures/) | live | 2026-09-13 |
 | RA-121 | ACTUAL SWITZERLAND SA | Cordiste | Switzerland | Geneva region | [source](https://www.jobscout24.ch/fr/job/6904999b-1db5-477d-8564-2a7ca5711541/) | live | 2026-09-09 |
@@ -158,9 +158,15 @@ This index preserves canonical public job identity for deduplication. Historical
 | RA-149 | CGS Nordic AB | Rope Technicians | Sweden | Gothenburg / Sweden-wide projects | [source](https://jobbland.se/jobb/vi-anstaller-fler-reptekniker-sasrb-20480883) | duplicate-of-RA-123 | 2026-09-16 |
 | RA-150 | Vestas | Blade Technician for Wind Turbine Blades | Austria | Parndorf, Lower Austria | [source](https://careers.vestas.com/job/Wien-Blade-Technician-%28mwd%29-for-Wind-Turbines-Blades-in-Parndorf-Lowe/1400329433/) | live | 2026-09-15 |
 
-| RA-151 | Alkana Sàrl | Cordiste / Technicien-ne travaux en accès difficile | Switzerland | Saint-Maurice, Valais | [source](https://alkana.ch/) | live | 2026-09-16 |
+| RA-151 | Alkana Sàrl | Cordiste / Technicien-ne travaux en accès difficile | Switzerland | Saint-Maurice, Valais | [source](https://alkana.ch/) | live | 2026-09-17 |
 | RA-152 | EdiliziAcrobatica France | Assistant(e) Cordiste Urbain | France | Toulouse | [source](https://candidat.francetravail.fr/offres/recherche/detail/213RWHF) | live | 2026-09-16 |
 | RA-153 | LIP / client | Cordiste industrie | France | Fos-sur-Mer / Châteauneuf-les-Martigues | [source](https://www.groupelip.com/emploi/poste-b32-a251-cordiste-industrie-22-376648) | live | 2026-09-16 |
 | RA-154 | LIP / client | Cordiste urbain | France | Toulouse | [source](https://www.groupelip.com/emploi/poste-b32-a251-cordiste-urbain-321-376641) | live | 2026-09-16 |
 | RA-155 | Groupe CAN | Cordiste Risques Naturels | France | Six named agency bases | [source](https://groupe-can.com/jobs/cordiste-risques-naturels/) | live | 2026-09-16 |
 | RA-156 | SAMSIC HR / client | Operatore su fune - manutentore | Italy | Rome / daily Lazio travel | [source](https://offertelavoro.samsic-hr.it/it/offerte/bol-1211996-un-operatore-su-fune-manutentore-h-f-d-m-f-x-0) | live | 2026-09-16 |
+
+| RA-157 | IDWS | Crane Hook Operator (Rigger / Banksman) | Netherlands | Throughout the Netherlands | [source](https://idws.nl/en/vacatures/crane-hook-operator-rigger-banksman) | live | 2026-09-17 |
+| RA-158 | EYESEN / client | Monteur échafaudages BTP (H/F) | Luxembourg | Luxembourg-wide BTP sites | [source](https://lu.indeed.com/viewjob?jk=13d56a257f5d065b) | live | 2026-09-17 |
+| RA-159 | Beerenberg | Faglærte og erfarne isolatører | Norway | Norwegian offshore projects | [source](https://candidate.hr-manager.net/ApplicationInit.aspx?DepartmentId=21891&MediaId=5&ProjectId=188739&SkipAdvertisement=true&cid=175) | live | 2026-09-17 |
+| RA-160 | SubC Partner | Mekanisk Pipefitter til Offshore Vedligehold | Denmark | Danish North Sea offshore rotation | [source](https://www.subcpartner.com/career/job-at-subc-partner/job/328322) | live | 2026-09-17 |
+| RA-161 | Descuelgue Trabajos en Altura | Técnicos en trabajos verticales | Spain | Madrid | [source](https://www.anetva.org/oferta-de-empleo/tecnicos-en-trabajos-verticales-35/) | live | 2026-09-17 |
