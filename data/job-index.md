@@ -65,7 +65,7 @@ This index preserves canonical public job identity for deduplication. Historical
 | RA-056 | BlackLine | Operatore su fune | Italy | Genoa | [source](https://www.glassdoor.it/job-listing/operatore-su-fune-blackline-srls-JV_IC2734746_KO0%2C17_KE18%2C32.htm?jl=1010180696020) | duplicate-of-RA-057 | 2026-09-16 |
 | RA-057 | BlackLine | Operaio edile / Operatore su fune | Italy | Genoa | [source](https://it.indeed.com/viewjob?jk=1168d4d009940801) | live | 2026-09-16 |
 | RA-058 | Innovation Group | Muratore – progression to operatore su fune | Italy | Rome Province | [source](https://it.jobrapido.com/jobpreview/504452239004270592) | needs-revalidation | 2026-08-12 |
-| RA-059 | Klätterservice | Blivande reparbetare på Klätterservice? | Sweden | Stockholm | [source](https://jobb.klatterservice.se/jobs) | live | 2026-09-13 |
+| RA-059 | Klätterservice | Blivande reparbetare på Klätterservice? | Sweden | Stockholm | [source](https://jobb.klatterservice.se/jobs) | live | 2026-09-19 |
 | RA-060 | Rope Access Sverige / Swire | Blade Repair Technicians – 2026 | Sweden | Gothenburg; remote project deployment | [source](https://career.ropeaccess.se/jobs/6921840-blade-repair-technicians-2026) | live | 2026-09-18 |
 | RA-061 | Altitude Access Scandinavia | Rope Access (reparbetare) | Sweden | Sweden | [source](https://altitudeaccess.se/dokument_prod/karriar_reparbete.pdf) | needs-revalidation | 2026-08-12 |
 | RA-062 | leteam / the team ag | Cordiste IRATA 3 | Switzerland | Bex / partner projects | [source](https://www.team.jobs/en/job-offers/zimmermann/cordiste-irata-3-%28h-f-d%29/90473) | needs-revalidation | 2026-08-12 |
@@ -148,7 +148,7 @@ This index preserves canonical public job identity for deduplication. Historical
 | RA-139 | Intertek | NDT Level II Inspector | Norway | Western Norway; onshore and offshore facilities | [source](https://no.indeed.com/q-rope-access-jobber.html) | live | 2026-09-13 |
 | RA-140 | Bilfinger ISP Offshore Norway AS | Stillasbygger med fagbrev til Kårstø | Norway | Tysværvåg/Kårstø | [source](https://jobs.bilfinger.com/go/Stillinger-innen-stillas-og-isolering-hos-Bilfinger/3755901/) | live | 2026-09-13 |
 | RA-141 | Vyn AB | Jobba som reptekniker | Sweden | Malmö base; occasional Swedish travel | [source](https://vyn.se/karriar/reparbetare) | live | 2026-09-13 |
-| RA-142 | Vyn AB | Erfaren reparbetare, SPRAT/IRATA Level 3 | Sweden | Malmö base; occasional Swedish travel | [source](https://vyn.se/karriar/erfaren-reparbetare) | live | 2026-09-13 |
+| RA-142 | Vyn AB | Erfaren reparbetare, SPRAT/IRATA Level 3 | Sweden | Malmö base; occasional Swedish travel | [source](https://vyn.se/karriar/erfaren-reparbetare) | live | 2026-09-19 |
 | RA-143 | GH Interim / client | Cordiste (H/F/X) | Luxembourg | Luxembourg-wide industrial, building and public-works sites | [source](https://www.ghinterim.lu/offres-d-emploi/offres-emploi-cordiste-h-f-x-1479944-41.html) | live | 2026-09-14 |
 | RA-144 | StS Resources & Technology | Rope Access Technicians | Norway | Long-term projects in Norway | [source](https://stsgroupuk.co.uk/news/were-recruiting-rope-access-technicians) | duplicate-of-RA-053 | 2026-09-15 |
 | RA-145 | High Torque Rope Access | IRATA Level 1 & 2 Operatives | United Kingdom | UK site-based; travel required | [source](https://hightorqueropeaccess.co.uk/careers/) | live | 2026-09-14 |
