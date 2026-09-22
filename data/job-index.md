@@ -1,9 +1,9 @@
 # Public job index
 
-Version: **2026-09-21 v1**  
-Stable IDs: **169 distinct records (RA-001–RA-169)**
+Version: **2026-09-22 v1**  
+Stable IDs: **172 distinct records (RA-001–RA-172)**
 
-This index preserves canonical public job identity for deduplication. Historical records are not 165 live vacancies. Status is the last recorded public state and must be revalidated on cadence. No application or private candidate data is stored here.
+This index preserves canonical public job identity for deduplication. Historical records are not necessarily live vacancies. Status is the last recorded public state and must be revalidated on cadence. No application or private candidate data is stored here.
 
 | ID | Company | Role | Country | Locality/scope | Canonical public source | Status | Last verified |
 |---|---|---|---|---|---|---|---|
@@ -70,7 +70,7 @@ This index preserves canonical public job identity for deduplication. Historical
 | RA-061 | Altitude Access Scandinavia | Rope Access (reparbetare) | Sweden | Sweden | [source](https://altitudeaccess.se/dokument_prod/karriar_reparbete.pdf) | expired | 2026-09-20 |
 | RA-062 | leteam / the team ag | Cordiste IRATA 3 | Switzerland | Bex / partner projects | [source](https://www.team.jobs/en/job-offers/zimmermann/cordiste-irata-3-%28h-f-d%29/90473) | needs-revalidation | 2026-08-12 |
 | RA-063 | Bellini Personal | Industriekletterer | Switzerland | Lungern | [source](https://www.jobagent.ch/job/industriekletterer-m-w/324d557777) | needs-revalidation | 2026-08-12 |
-| RA-064 | Zweiseil | Industriekletterer | Austria | Linz / Austria-wide | [source](https://www.zweiseil.at/jobs/info/industriekletterer) | needs-revalidation | 2026-08-12 |
+| RA-064 | Zweiseil | Industriekletterer | Austria | Linz / Austria-wide | [source](https://www.zweiseil.at/jobs/industriekletterer/) | live | 2026-09-22 |
 | RA-065 | FORMACAN | Cordiste Industrie Urbain | Luxembourg | Munsbach | [source](https://lu.linkedin.com/jobs/view/cordiste-industrie-urbain-h-f-at-formacan-4440759651) | needs-revalidation | 2026-08-12 |
 | RA-066 | Kreativ Alpin | Alpinist Utilitar – Rol de Coordonator | Romania | Bucharest, Sector 4 | [source](https://www.publi24.ro/anunturi/locuri-de-munca/constructii-arhitectura-design/muncitori-constructii/anunt/angajam-alpinist-utilitar-experienta-minim-3-ani/g723i91gh04d76i0ei6706028gii85d4.html) | needs-revalidation | 2026-08-12 |
 | RA-067 | ALL-WORKS | Alpinista Przemysłowy – monter słupów wysokiego napięcia | Poland | Warsaw / mobile work | [source](https://www.pracuj.pl/praca/alpinista%20przemys%C5%82owy%3Bkw) | expired | 2026-09-11 |
@@ -179,3 +179,6 @@ This index preserves canonical public job identity for deduplication. Historical
 | RA-167 | Swire Renewable Energy | L3 Armour Edge Technician | Sweden | Halmstad and Hyltebruk; onward Swedish sites | [source](https://jobs.swire-re.com/o/l3-amour-edge-technician) | live | 2026-09-21 |
 | RA-168 | CAN Group | Rope Access Radiographer | United Kingdom | UK offshore; Aberdeen recruitment channel | [source](https://uk.linkedin.com/jobs/view/rope-access-radiographer-at-can-group-4461227403) | live | 2026-09-21 |
 | RA-169 | Swire Renewable Energy | Blade D Technicians | United Kingdom / Europe | UK offshore/onshore and EU projects | [source](https://jobs.swire-re.com/o/blade-d-technicians) | live | 2026-09-21 |
+| RA-170 | Swire Renewable Energy | Offshore Mechanical Commissioning Technician | Germany / Netherlands | Schleswig-Holstein and Middenmeer; offshore rotation | [source](https://jobs.swire-re.com/o/offshore-mechanical-commissioning-technician) | live | 2026-09-22 |
+| RA-171 | Totalis GmbH | Experienced scaffolders and insulation technicians | Germany | Meppen–Lingen / Duisburg region | [source](https://totalis.nl/vacatures/) | live | 2026-09-22 |
+| RA-172 | Zweiseil | Industriekletterer in Ausbildung | Austria | Linz | [source](https://www.zweiseil.at/jobs/industriekletterer-in-ausbildung/) | live | 2026-09-22 |
