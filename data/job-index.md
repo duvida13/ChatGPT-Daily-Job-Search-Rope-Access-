@@ -1,7 +1,7 @@
 # Public job index
 
-Version: **2026-09-22 v1**  
-Stable IDs: **172 distinct records (RA-001–RA-172)**
+Version: **2026-09-23 v1**  
+Stable IDs: **174 distinct records (RA-001–RA-174)**
 
 This index preserves canonical public job identity for deduplication. Historical records are not necessarily live vacancies. Status is the last recorded public state and must be revalidated on cadence. No application or private candidate data is stored here.
 
@@ -98,7 +98,7 @@ This index preserves canonical public job identity for deduplication. Historical
 | RA-089 | Actual Experts | Chef d’Équipe Cordiste H/F | France | Rennes | [source](https://www.hellowork.com/fr-fr/emploi/metier_cordiste.html) | needs-revalidation | 2026-08-12 |
 | RA-090 | Avantage Intérim | Cordiste H/F | France | Notre-Dame-d’Oé | [source](https://www.hellowork.com/fr-fr/emploi/metier_cordiste.html) | needs-revalidation | 2026-08-12 |
 | RA-091 | KELYPS Lyon BTP | Cordiste H/F | France | Lyon | [source](https://www.hellowork.com/fr-fr/emploi/metier_cordiste.html) | needs-revalidation | 2026-08-12 |
-| RA-092 | PROMAN/CORDIAL Intérim | Cordiste H/F | France | Lille | [source](https://www.hellowork.com/fr-fr/emplois/82185556.html) | needs-revalidation | 2026-08-12 |
+| RA-092 | PROMAN/CORDIAL Intérim | Cordiste H/F | France | Lille / Hauts-de-France travel | [source](https://www.hellowork.com/fr-fr/emplois/83592697.html) | live | 2026-09-23 |
 | RA-093 | PROMAN | Cordiste Forage H/F | France | Pralognan-la-Vanoise | [source](https://www.hellowork.com/fr-fr/emploi/metier_cordiste.html) | needs-revalidation | 2026-08-12 |
 | RA-094 | PROMAN | Cordiste Couvreur H/F | France | Nantes | [source](https://www.hellowork.com/fr-fr/emploi/metier_cordiste-ville_nantes-44000.html) | needs-revalidation | 2026-08-12 |
 | RA-095 | PROMAN | Cordiste Urbain H/F | France | Paris 7e | [source](https://www.hellowork.com/fr-fr/emploi/metier_cordiste.html) | needs-revalidation | 2026-08-12 |
@@ -182,3 +182,5 @@ This index preserves canonical public job identity for deduplication. Historical
 | RA-170 | Swire Renewable Energy | Offshore Mechanical Commissioning Technician | Germany / Netherlands | Schleswig-Holstein and Middenmeer; offshore rotation | [source](https://jobs.swire-re.com/o/offshore-mechanical-commissioning-technician) | live | 2026-09-22 |
 | RA-171 | Totalis GmbH | Experienced scaffolders and insulation technicians | Germany | Meppen–Lingen / Duisburg region | [source](https://totalis.nl/vacatures/) | live | 2026-09-22 |
 | RA-172 | Zweiseil | Industriekletterer in Ausbildung | Austria | Linz | [source](https://www.zweiseil.at/jobs/industriekletterer-in-ausbildung/) | live | 2026-09-22 |
+| RA-173 | Temporis Interim | Cordiste H/F | France | Nice / Alpes-Maritimes | [source](https://www.hellowork.com/fr-fr/emplois/83597326.html) | live | 2026-09-23 |
+| RA-174 | LIP Industrie Technique et Nucléaire | Cordiste H/F | France | Grenoble and surroundings | [source](https://www.hellowork.com/fr-fr/emplois/83582511.html) | live | 2026-09-23 |
