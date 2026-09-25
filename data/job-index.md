@@ -188,5 +188,4 @@ This index preserves canonical public job identity for deduplication. Historical
 | RA-176 | Undisclosed client via domestiko.com | Alpinista / técnico en trabajos verticales | Spain | Quart de Poblet, Valencia; travel | [source](https://es.indeed.com/viewjob?jk=66ec1eb625ddfeb8) | live | 2026-09-24 |
 | RA-177 | Grupo EOSOL | Reparador/a de Palas Eólicas con IRATA | Spain | Pamplona, Navarra; national mobility | [source](https://es.indeed.com/viewjob?jk=16c3d49e528fba8e) | live | 2026-09-24 |
 | RA-178 | Grupo EOSOL | Técnico/a de reparación de palas eólicas – IRATA 3 | Spain | A Coruña; national projects | [source](https://es.indeed.com/viewjob?jk=da7e83245c7ed9ef) | live | 2026-09-24 |
-
 | RA-179 | Swire Renewable Energy | Pre-Assembly Mechanical Technician | Poland / Europe | Szczecin base; projects across Europe | [source](https://jobs.swire-re.com/o/pre-assembly-mechanical-technician) | live | 2026-09-25 |
