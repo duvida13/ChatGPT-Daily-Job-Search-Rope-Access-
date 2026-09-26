@@ -1,7 +1,7 @@
 # Public job index
 
-Version: **2026-09-25 v1**  
-Stable IDs: **179 distinct records (RA-001–RA-179)**
+Version: **2026-09-26 v1**  
+Stable IDs: **188 distinct records (RA-001–RA-188)**
 
 This index preserves canonical public job identity for deduplication. Historical records are not necessarily live vacancies. Status is the last recorded public state and must be revalidated on cadence. No application or private candidate data is stored here.
 
@@ -21,7 +21,7 @@ This index preserves canonical public job identity for deduplication. Historical
 | RA-012 | Quantum Access | Rope Access Technician IRATA Level 1 – 4 month contract | UK | London and South East | [source](https://www.glassdoor.co.uk/job-listing/rope-access-technician-irata-level-14-month-contract-quantum-access-JV_KO0%2C52_KE53%2C67.htm?jl=1010194052105) | needs-revalidation | 2026-08-12 |
 | RA-013 | Sonomatic | Level 3 Rope Access Technician | UK | Southampton / project deployment | [source](https://careers.sonomatic.com/jobs/8108067-level-3-rope-access-technician) | needs-revalidation | 2026-08-12 |
 | RA-014 | Copius Group | Offshore Rope Access Technician – Decommissioning | UK | Liverpool Bay offshore | [source](https://www.jobleads.com/gb/job/offshore-rope-access-technician-level-3-decommissioning--liverpool--ef554f3dfc149d288617141f84bb14128) | needs-revalidation | 2026-08-12 |
-| RA-015 | P C Richardson | IRATA Rope Access Technicians (Level 1, 2 & 3) | UK | Stallingborough | [source](https://www.pcrichardson.co.uk/wp-content/uploads/2026/03/IRATALevel123JobVacancies.pdf) | needs-revalidation | 2026-08-12 |
+| RA-015 | P C Richardson | IRATA Rope Access Technicians (Level 1, 2 & 3) | UK | Stallingborough | [source](https://www.pcrichardson.co.uk/wp-content/uploads/2026/03/IRATALevel123JobVacancies.pdf) | expired | 2026-09-26 |
 | RA-016 | CAN Geotechnical | Experienced Geotechnical IRATA Rope Access | UK | UK-wide | [source](https://uk.indeed.com/q-rope-access-l-chesterfield-jobs.html) | needs-revalidation | 2026-08-12 |
 | RA-017 | Rope Access in London Ltd | Rope Access Technician IRATA | UK | London | [source](https://uk.indeed.com/Rope-Access-jobs-in-%2C-Devon) | needs-revalidation | 2026-08-12 |
 | RA-018 | RTS Wind UK | Rope Access Blade Technicians | UK | UK onshore | [source](https://uk.linkedin.com/company/rts-wind-ltd) | needs-revalidation | 2026-08-12 |
@@ -146,7 +146,7 @@ This index preserves canonical public job identity for deduplication. Historical
 | RA-137 | Manpower Luxembourg/client | Monteurs d’échafaudages | Luxembourg | Luxembourg-wide construction projects | [source](https://manpower.lu/jobs/14981-monteurs-dechafaudages-h-f-x/) | live | 2026-09-13 |
 | RA-138 | ARHIS/client | Monteur d’Échafaudage | Luxembourg | Luxembourg City construction and renovation sites | [source](https://www.arhis.lu/fr/offre-emploi/9143) | live | 2026-09-13 |
 | RA-139 | Intertek | NDT Level II Inspector | Norway | Western Norway; onshore and offshore facilities | [source](https://no.indeed.com/q-rope-access-jobber.html) | live | 2026-09-13 |
-| RA-140 | Bilfinger ISP Offshore Norway AS | Stillasbygger med fagbrev til Kårstø | Norway | Tysværvåg/Kårstø | [source](https://jobs.bilfinger.com/go/Stillinger-innen-stillas-og-isolering-hos-Bilfinger/3755901/) | live | 2026-09-13 |
+| RA-140 | Bilfinger ISP Offshore Norway AS | Stillasbygger med fagbrev til Kårstø | Norway | Tysværvåg/Kårstø | [source](https://jobs.bilfinger.com/job/Tysv%C3%A6rv%C3%A5g-Stillasbygger-med-fagbrev-til-K%C3%A5rst%C3%B8-11-5565/1278883301/) | live | 2026-09-26 |
 | RA-141 | Vyn AB | Jobba som reptekniker | Sweden | Malmö base; occasional Swedish travel | [source](https://vyn.se/karriar/reparbetare) | live | 2026-09-21 |
 | RA-142 | Vyn AB | Erfaren reparbetare, SPRAT/IRATA Level 3 | Sweden | Malmö base; occasional Swedish travel | [source](https://vyn.se/karriar/erfaren-reparbetare) | live | 2026-09-25 |
 | RA-143 | GH Interim / client | Cordiste (H/F/X) | Luxembourg | Luxembourg-wide industrial, building and public-works sites | [source](https://www.ghinterim.lu/offres-d-emploi/offres-emploi-cordiste-h-f-x-1479944-41.html) | live | 2026-09-14 |
@@ -189,3 +189,12 @@ This index preserves canonical public job identity for deduplication. Historical
 | RA-177 | Grupo EOSOL | Reparador/a de Palas Eólicas con IRATA | Spain | Pamplona, Navarra; national mobility | [source](https://es.indeed.com/viewjob?jk=16c3d49e528fba8e) | live | 2026-09-24 |
 | RA-178 | Grupo EOSOL | Técnico/a de reparación de palas eólicas – IRATA 3 | Spain | A Coruña; national projects | [source](https://es.indeed.com/viewjob?jk=da7e83245c7ed9ef) | live | 2026-09-24 |
 | RA-179 | Swire Renewable Energy | Pre-Assembly Mechanical Technician | Poland / Europe | Szczecin base; projects across Europe | [source](https://jobs.swire-re.com/o/pre-assembly-mechanical-technician) | live | 2026-09-25 |
+| RA-180 | Brand Energy & Infrastructure Services | Rope Access L1/2 IRATA – Verfspuiter/Straler | Netherlands | Den Helder offshore; 14/14 rotation | [source](https://www.beis.com/nl/career/detail/325) | live | 2026-09-26 |
+| RA-181 | TéléCharmey SA | High Ropes Course Operator | Switzerland | Charmey; on-call through end September 2026 | [source](https://www.jobs.ch/en/vacancies/detail/a53ca589-67bd-4268-8b04-a1ac496f26b7/) | live | 2026-09-26 |
+| RA-182 | Height Solutions | Touwtechnieker / Rope Access | Belgium | Vremde; varied work across Belgium | [source](https://www.vdab.be/vindeenjob/vacatures/73823273/touwtechnieker-rope-access) | live | 2026-09-26 |
+| RA-183 | Luxcontrol S.A. | Inspecteur Cordiste | Luxembourg | Belvaux; fall-protection inspection across client sites | [source](https://en.jobs.lu/ApplyForJob.aspx?Id=289446) | live | 2026-09-26 |
+| RA-184 | Bilfinger ISP Offshore Norway AS | Lokale stillasbyggere til Kårstø | Norway | Tysværvåg/Kårstø; local scaffolders | [source](https://jobs.bilfinger.com/job/Tysv%C3%A6rv%C3%A5g-Lokale-stillasbyggere-til-K%C3%A5rst%C3%B8-11-5565/1265975601/) | live | 2026-09-26 |
+| RA-185 | Scan Con Construction ApS | Riggers Wanted | Denmark | Danish shipyards; repair and new-build departments | [source](https://workindenmark.jobnet.dk/find-job/1fdceacd-3859-4321-8764-d16e16da82a5) | live | 2026-09-26 |
+| RA-186 | ADSS Ltd | IRATA Rope Access Technician (All Levels) | United Kingdom | Uttoxeter channel; ongoing onshore utilities/industrial work | [source](https://uk.indeed.com/viewjob?jk=354f783e7cff96fa) | live | 2026-09-26 |
+| RA-187 | WISAG Job & Karriere | Industriekletterer / Höhenarbeiter – Industriereinigung | Germany | Schwarzheide worksite; Leipzig recruiting channel | [source](https://hire.wisag.de/10696520/leipzig-industriekletterer) | live | 2026-09-26 |
+| RA-188 | DYWIDAG | Höhenarbeiter / Industriekletterer / Rope Access Technicians | Germany | Munich project; Leipzig recruiting channel; planned 2027 start | [source](https://dywidag.bamboohr.com/careers/796) | live | 2026-09-26 |
