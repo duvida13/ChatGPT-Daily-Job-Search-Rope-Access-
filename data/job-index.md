@@ -1,7 +1,7 @@
 # Public job index
 
-Version: **2026-09-26 v1**  
-Stable IDs: **188 distinct records (RA-001–RA-188)**
+Version: **2026-09-27 v1**  
+Stable IDs: **194 distinct records (RA-001–RA-194)**
 
 This index preserves canonical public job identity for deduplication. Historical records are not necessarily live vacancies. Status is the last recorded public state and must be revalidated on cadence. No application or private candidate data is stored here.
 
@@ -198,3 +198,9 @@ This index preserves canonical public job identity for deduplication. Historical
 | RA-186 | ADSS Ltd | IRATA Rope Access Technician (All Levels) | United Kingdom | Uttoxeter channel; ongoing onshore utilities/industrial work | [source](https://uk.indeed.com/viewjob?jk=354f783e7cff96fa) | live | 2026-09-26 |
 | RA-187 | WISAG Job & Karriere | Industriekletterer / Höhenarbeiter – Industriereinigung | Germany | Schwarzheide worksite; Leipzig recruiting channel | [source](https://hire.wisag.de/10696520/leipzig-industriekletterer) | live | 2026-09-26 |
 | RA-188 | DYWIDAG | Höhenarbeiter / Industriekletterer / Rope Access Technicians | Germany | Munich project; Leipzig recruiting channel; planned 2027 start | [source](https://dywidag.bamboohr.com/careers/796) | live | 2026-09-26 |
+| RA-189 | Circet (Schweiz) AG | Freileitungsmonteur Kupfer | Switzerland | Buchs AG; Bern, Aargau, Zürcher Oberland or eastern Switzerland | [source](https://www.jobs.ch/en/vacancies/detail/28ba1187-76e4-4789-b7fc-32d502ef1a85/) | live | 2026-09-27 |
+| RA-190 | Accent/client | Touwtechnieker | Belgium | Boom base; mobile-network sites across Belgium | [source](https://www.vdab.be/vindeenjob/vacatures/74646828/touwtechnieker) | live | 2026-09-27 |
+| RA-191 | B-MOREHR/client | Touwtechnieker / ramenwasser | Belgium | Aartselaar; Antwerp petrochemical and port sites | [source](https://www.vdab.be/vindeenjob/vacatures/74347451/touwtechnieker-ramenwasser-i-aartselaar) | live | 2026-09-27 |
+| RA-192 | WORKPLACE/client | Cordiste - Luxembourg H/F | Luxembourg | Luxembourg; façades, industrial structures and varied sites | [source](https://www.hellowork.com/fr-fr/emplois/83564026.html) | live | 2026-09-27 |
+| RA-193 | IMPULSE INTERIM/client | Échafaudeur H/F | Luxembourg | Luxembourg worksites | [source](https://en.moovijob.com/job-offers/impulse-interim/echafaudeur-hf-d26c6) | live | 2026-09-27 |
+| RA-194 | Hytech Access & Inspection AS | Tilkomsttekniker med elektriker fagbrev | Norway | Sola channel; onshore rope-access and offshore projects | [source](https://arbeidsplassen.nav.no/stillinger/stilling/e3667175-5880-4d15-86b3-d850ab056b32) | live | 2026-09-27 |
