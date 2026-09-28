@@ -1,7 +1,7 @@
 # Public job index
 
-Version: **2026-09-27 v1**  
-Stable IDs: **194 distinct records (RA-001–RA-194)**
+Version: **2026-09-28 v1**  
+Stable IDs: **200 distinct records (RA-001–RA-200)**
 
 This index preserves canonical public job identity for deduplication. Historical records are not necessarily live vacancies. Status is the last recorded public state and must be revalidated on cadence. No application or private candidate data is stored here.
 
@@ -22,12 +22,12 @@ This index preserves canonical public job identity for deduplication. Historical
 | RA-013 | Sonomatic | Level 3 Rope Access Technician | UK | Southampton / project deployment | [source](https://careers.sonomatic.com/jobs/8108067-level-3-rope-access-technician) | needs-revalidation | 2026-08-12 |
 | RA-014 | Copius Group | Offshore Rope Access Technician – Decommissioning | UK | Liverpool Bay offshore | [source](https://www.jobleads.com/gb/job/offshore-rope-access-technician-level-3-decommissioning--liverpool--ef554f3dfc149d288617141f84bb14128) | needs-revalidation | 2026-08-12 |
 | RA-015 | P C Richardson | IRATA Rope Access Technicians (Level 1, 2 & 3) | UK | Stallingborough | [source](https://www.pcrichardson.co.uk/wp-content/uploads/2026/03/IRATALevel123JobVacancies.pdf) | expired | 2026-09-26 |
-| RA-016 | CAN Geotechnical | Experienced Geotechnical IRATA Rope Access | UK | UK-wide | [source](https://uk.indeed.com/q-rope-access-l-chesterfield-jobs.html) | needs-revalidation | 2026-08-12 |
+| RA-016 | CAN Geotechnical | Experienced Geotechnical IRATA Rope Access | UK | UK-wide | [source](https://uk.indeed.com/q-rope-access-l-chesterfield-jobs.html) | live | 2026-09-28 |
 | RA-017 | Rope Access in London Ltd | Rope Access Technician IRATA | UK | London | [source](https://uk.indeed.com/Rope-Access-jobs-in-%2C-Devon) | needs-revalidation | 2026-08-12 |
 | RA-018 | RTS Wind UK | Rope Access Blade Technicians | UK | UK onshore | [source](https://uk.linkedin.com/company/rts-wind-ltd) | needs-revalidation | 2026-08-12 |
 | RA-019 | Swire Renewable Energy | Blade Technician season 2026 | UK | London / remote deployment | [source](https://uk.indeed.com/viewjob?jk=e2657b103f9650dc) | needs-revalidation | 2026-08-12 |
 | RA-020 | Smith Services | Rope Access Technician Window Cleaning | UK | West Midlands | [source](https://irata.org/jobs) | needs-revalidation | 2026-08-12 |
-| RA-021 | Bidvest Noonan | Rope Access Technician – Industrial Cleaning | Ireland | Swords, County Dublin | [source](https://ie.indeed.com/viewjob?jk=d7bcfa479b2d6fd9) | live | 2026-09-14 |
+| RA-021 | Bidvest Noonan | Rope Access Technician – Industrial Cleaning | Ireland | Swords, County Dublin | [source](https://ie.indeed.com/viewjob?jk=d7bcfa479b2d6fd9) | live | 2026-09-28 |
 | RA-022 | Sky-Access | Rope Access Technician | Netherlands | Roosendaal; national/international projects | [source](https://sky-access.com/vacatures/) | needs-revalidation | 2026-08-12 |
 | RA-023 | Sky-Access | Rope Access Technician / Supervisor | Netherlands | Roosendaal | [source](https://sky-access.com/vacatures/) | needs-revalidation | 2026-08-12 |
 | RA-024 | Fender BV | Rope Access Technician | Netherlands | Netherlands, onshore/offshore | [source](https://fenderbv.nl/vacatures/rope-access-technician/) | live | 2026-09-13 |
@@ -77,7 +77,7 @@ This index preserves canonical public job identity for deduplication. Historical
 | RA-068 | Rope-Techs Group | Pomocnik Alpinisty Przemysłowego | Poland | Tychy / hybrid-mobile | [source](https://www.pracuj.pl/praca/alpinista%20przemys%C5%82owy%3Bkw) | expired | 2026-09-11 |
 | RA-069 | Aerones | Rope Access Technician | Europe | Germany, France, Poland, Romania and Spain; travelling wind projects | [source](https://apply.workable.com/aerones/j/C5AA4AA02F) | live | 2026-09-24 |
 | RA-070 | Muehlhan Wind Service | Blade Repair Technicians – Project L167 | Sweden / Finland / Greece | Scandinavian and Greek projects | [source](https://techcareer.muehlhan.com/jobs/u-8dd4f9cb-f35a-466b-b0b8-7c536dce1250) | needs-revalidation | 2026-08-12 |
-| RA-071 | Agua-Clean Services | IRATA Level 1 Rope Access Technicians | Ireland | Dublin / throughout Ireland | [source](https://ie.linkedin.com/jobs/view/irata-level-1-rope-access-technicians-dublin-ireland-at-agua-clean-services-4438202059) | needs-revalidation | 2026-08-12 |
+| RA-071 | Agua-Clean Services | IRATA Level 1 Rope Access Technicians | Ireland | Dublin / throughout Ireland | [source](https://ie.linkedin.com/jobs/view/irata-level-1-rope-access-technicians-dublin-ireland-at-agua-clean-services-4438202059) | expired | 2026-09-28 |
 | RA-072 | Accent Group/client | Cordiste H/F/X | Belgium | Watermael-Boitsfort, Brussels | [source](https://www.actiris.brussels/fr/citoyens/detail-offre-d-emploi/?reference=5878593) | needs-revalidation | 2026-08-12 |
 | RA-073 | Abalone/client | Cordiste H/F/X | Belgium | Andenne | [source](https://promandenne.be/cordiste-h-f-2/) | needs-revalidation | 2026-08-12 |
 | RA-074 | Seven Rope Access | Alpinista predial | Portugal | Coimbra | [source](https://pt.linkedin.com/jobs/view/alpinista-predial-at-seven-rope-access-4378281404) | needs-revalidation | 2026-08-12 |
@@ -204,3 +204,9 @@ This index preserves canonical public job identity for deduplication. Historical
 | RA-192 | WORKPLACE/client | Cordiste - Luxembourg H/F | Luxembourg | Luxembourg; façades, industrial structures and varied sites | [source](https://www.hellowork.com/fr-fr/emplois/83564026.html) | live | 2026-09-27 |
 | RA-193 | IMPULSE INTERIM/client | Échafaudeur H/F | Luxembourg | Luxembourg worksites | [source](https://en.moovijob.com/job-offers/impulse-interim/echafaudeur-hf-d26c6) | live | 2026-09-27 |
 | RA-194 | Hytech Access & Inspection AS | Tilkomsttekniker med elektriker fagbrev | Norway | Sola channel; onshore rope-access and offshore projects | [source](https://arbeidsplassen.nav.no/stillinger/stilling/e3667175-5880-4d15-86b3-d850ab056b32) | live | 2026-09-27 |
+| RA-195 | Ulstein Verft | Operatørar Rigg & Service | Norway | Ulsteinvik | [source](https://www.finn.no/job/ad/474458654) | live | 2026-09-28 |
+| RA-196 | J.V. Price Ltd (The Price Group) | Rope Access Technician | UK | West Midlands Region | [source](https://uk.indeed.com/q-rope-access-technician-l-birmingham-jobs.html) | live | 2026-09-28 |
+| RA-197 | Southbank Rope Access Ltd | Rope Access IRATA | UK | Greater London | [source](https://uk.indeed.com/q-irata-rope-access-jobs.html) | live | 2026-09-28 |
+| RA-198 | Sonomatic | Multi-Disciplined NDT Rope Access Technician | UK | Fawley / Southampton | [source](https://uk.indeed.com/viewjob?jk=bf823d181979235a) | live | 2026-09-28 |
+| RA-199 | Sonomatic RAIS | Offshore Lead NDT Technician | UK | Aberdeen / offshore platform | [source](https://uk.linkedin.com/jobs/view/offshore-lead-ndt-techichan-at-sonomatic-rais-4467838296) | live | 2026-09-28 |
+| RA-200 | Morson Edge | Rope Access Plater (Offshore) | UK | Portlethen / offshore platform | [source](https://www.simplyhired.co.uk/job/ozK346dGISC1PTxlC_EX4VSeZL7sFkwORdZyeKmZ6nRLYhVlzhaTbw) | live | 2026-09-28 |
