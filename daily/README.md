@@ -2,6 +2,7 @@
 
 Dated public digests, newest first. Only actual dated files present on `main` are listed.
 
+- [2026-09-29](2026-09-29.md)
 - [2026-09-28](2026-09-28.md)
 - [2026-09-27](2026-09-27.md)
 - [2026-09-26](2026-09-26.md)
