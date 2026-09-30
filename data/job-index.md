@@ -1,7 +1,7 @@
 # Public job index
 
-Version: **2026-09-29 v1**  
-Stable IDs: **210 distinct records (RA-001–RA-210)**
+Version: **2026-09-30 v1**  
+Stable IDs: **220 distinct records (RA-001–RA-220)**
 
 This index preserves canonical public job identity for deduplication. Historical records are not necessarily live vacancies. Status is the last recorded public state and must be revalidated on cadence. No application or private candidate data is stored here.
 
@@ -220,3 +220,13 @@ This index preserves canonical public job identity for deduplication. Historical
 | RA-208 | ARCTEC services | Konstruktionsmechaniker / Industriekletterer | Germany | Pulheim; industrial plants and occasional deployment | [source](https://www.arbeitsagentur.de/jobsuche/jobdetail/15160-SNXRTQFCO121QT7R-S) | live | 2026-09-29 |
 | RA-209 | Industrie Kletterer Hamburg IKH GmbH | Industriekletterer Level 1–3 | Germany | Hamburg and surrounding region | [source](https://www.industrie-kletterer-hamburg.de/ueber-uns/jobs-bei-ikh/) | live | 2026-09-29 |
 | RA-210 | Rope Tech GmbH | Project Manager – Height Safety and Rope Access | Austria | Kematen in Tirol; project sites | [source](https://rope-tech.at/jobs/) | live | 2026-09-29 |
+| RA-211 | Wagenborg Foxdrill | Rigger (in opleiding) | Netherlands | Oldenzaal; onshore/offshore and international projects | [source](https://www.werkenbijwagenborg.com/vacatures/rigger-in-opleiding) | live | 2026-09-30 |
+| RA-212 | Skyworkers BV | Rope Access Technician | Belgium | Herentals; industrial, offshore and varied rope-access projects | [source](https://www.jobfunders.com/app/job/ddd33b32-60df-45e8-b0c0-ccab1d9cfd1f/rope-access-technician/) | live | 2026-09-30 |
+| RA-213 | QWC ApS | IRATA Level 3 Rope Access Supervisor | Denmark | Glostrup base; client sites throughout Denmark | [source](https://jobportal.dk/job/irata-level-3-rope-access-supervisor/) | live | 2026-09-30 |
+| RA-214 | Net Concept | Technicien cordiste | France | Eschau; regular regional travel | [source](https://candidat.francetravail.fr/offres/recherche/detail/214HCQV) | live | 2026-09-30 |
+| RA-215 | Oceane Interim | Cordiste – industrial/mechanical mission | France | Cléon-d’Andran; 12 October–6 November campaign with possible extension | [source](https://candidat.francetravail.fr/offres/recherche/detail/214HWNR) | live | 2026-09-30 |
+| RA-216 | Oceane Interim | Cordiste – church and urban works | France | Ladevèze-Ville followed by Jura deployment | [source](https://candidat.francetravail.fr/offres/recherche/detail/214DJRT) | live | 2026-09-30 |
+| RA-217 | ADEQUAT 430 / client | Cordiste en milieu nucléaire | France | Pierrelatte nuclear installation; three-month extendable mission | [source](https://candidat.francetravail.fr/offres/recherche/detail/214DNTW) | live | 2026-09-30 |
+| RA-218 | Employer not disclosed | Cordiste IRATA 3 or CQP 2 | France | Auvergne-Rhône-Alpes; day and night work | [source](https://candidat.francetravail.fr/offres/recherche/detail/214CVHW) | live | 2026-09-30 |
+| RA-219 | Gi Group / client | Rocciatore / Addetto lavori in fune | Italy | Villar San Costanzo, Cuneo; travel outside region | [source](https://www.gigroup.it/offerte-lavoro-dettaglio/villar-san-costanzo-cuneo-rocciatore-addetto-a-lavori-in-fune-trasfertista/1367061/) | live | 2026-09-30 |
+| RA-220 | EST Europea Servizi Terminalistici / ISLA | Tecnico IRATA Level 2/3 | Italy | Augusta terminal, Sicily; port, industrial and wind-component work | [source](https://www.jobijoba.it/annunci-di-lavoro/13/142630a6a5cbebc074d4225c329915e1) | live | 2026-09-30 |
