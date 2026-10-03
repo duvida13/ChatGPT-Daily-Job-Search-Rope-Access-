@@ -4,6 +4,7 @@ Public run checkpoints, evidence, coverage and changed-record deltas.
 
 | Date | Status | Revision | Evidence | Daily digest | Index delta |
 |---|---|---:|---|---|---|
+| 2026-10-03 | Complete | 11 | [research](2026-10-03.md) | [daily](../daily/2026-10-03.md) | RA-239–RA-245 new; live/source RA-034/076; live RA-035/060/116/183/206/223/226 |
 | 2026-10-02 | Complete | 11 | [research](2026-10-02.md) | [daily](../daily/2026-10-02.md) | RA-233–RA-238 new; live RA-035/060/069/121/206/226; RA-127 unclear/project-window-ended |
 | 2026-10-01 | Complete | 11 | [research](2026-10-01.md) | [daily](../daily/2026-10-01.md) | RA-221–RA-232 new; live RA-002/121/161; RA-213 unclear/deadline-passed |
 | 2026-09-30 | Complete | 11 | [research](2026-09-30.md) | [daily](../daily/2026-09-30.md) | RA-211–RA-220 new |
