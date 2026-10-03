@@ -1,7 +1,7 @@
 # Public job index
 
-Version: **2026-10-02 v1**  
-Stable IDs: **238 distinct records (RA-001–RA-238)**
+Version: **2026-10-03 v1**  
+Stable IDs: **245 distinct records (RA-001–RA-245)**
 
 This index preserves canonical public job identity for deduplication. Historical records are not necessarily live vacancies. Status is the last recorded public state and must be revalidated on cadence. No application or private candidate data is stored here.
 
@@ -40,8 +40,8 @@ This index preserves canonical public job identity for deduplication. Historical
 | RA-031 | Vestas | Blade Technician for Wind Turbine Blades | Germany | Vogelsdorf | [source](https://de.indeed.com/q-rope-access-technician-jobs.html) | needs-revalidation | 2026-08-12 |
 | RA-032 | Ventotec Solution | Industriekletterer Rotorblatt Level 1–3 Seil & Bühne | Germany | Rostock | [source](https://www.stepstone.de/jobs/industriekletterer) | needs-revalidation | 2026-08-12 |
 | RA-033 | GMA-Werkstoffprüfung | Höhenkletterer nach IRATA / FISAT | Germany | Gelsenkirchen | [source](https://bebee.com/de/jobs/hohenkletterer-nach-irata-fisat-gma-werkstoffprufung-gmbh-gelsenkirchen--theirstack-709679718) | needs-revalidation | 2026-08-12 |
-| RA-034 | Future Services | On/Offshore Rope Access Technician | Belgium | Bredene / varied projects | [source](https://futureservices.eu/your-career/) | live | 2026-09-25 |
-| RA-035 | Groupe NA / BTH | Technicien Cordiste H/F | Belgium | Mouscron | [source](https://be.linkedin.com/jobs/view/technicien-cordiste-h-f-at-groupe-na-%F0%9F%8C%90-4465766512) | live | 2026-10-02 |
+| RA-034 | Future Services | On/Offshore Rope Access Technician | Belgium | Bredene / varied projects | [source](https://www.vdab.be/vindeenjob/vacatures/73574903/touw-technieker-offshore-industrie) | live | 2026-10-03 |
+| RA-035 | Groupe NA / BTH | Technicien Cordiste H/F | Belgium | Mouscron | [source](https://be.linkedin.com/jobs/view/technicien-cordiste-h-f-at-groupe-na-%F0%9F%8C%90-4465766512) | live | 2026-10-03 |
 | RA-036 | Devers | Technicienne / Technicien cordiste | France | Le Havre | [source](https://www.devers.fr/emploi/technicienne-technicien-cordiste-le-havre/) | needs-revalidation | 2026-08-12 |
 | RA-037 | ANCY Rope Access | Technicien cordiste | France | Rhône-Alpes / Savoie | [source](https://ancyropeaccess.com/fr/page/recrutement) | needs-revalidation | 2026-08-12 |
 | RA-038 | Job & Vous | Cordiste | France | Castanet-Tolosan | [source](https://candidat.francetravail.fr/offres/recherche/detail/212JFZD) | needs-revalidation | 2026-08-12 |
@@ -66,7 +66,7 @@ This index preserves canonical public job identity for deduplication. Historical
 | RA-057 | BlackLine | Operaio edile / Operatore su fune | Italy | Genoa | [source](https://it.indeed.com/viewjob?jk=1168d4d009940801) | live | 2026-09-16 |
 | RA-058 | Innovation Group | Muratore – progression to operatore su fune | Italy | Rome Province | [source](https://it.jobrapido.com/jobpreview/504452239004270592) | needs-revalidation | 2026-08-12 |
 | RA-059 | Klätterservice | Blivande reparbetare på Klätterservice? | Sweden | Stockholm | [source](https://jobb.klatterservice.se/jobs) | live | 2026-09-25 |
-| RA-060 | Rope Access Sverige / Swire | Blade Repair Technicians – 2026 | Sweden | Gothenburg; remote project deployment | [source](https://career.ropeaccess.se/jobs/6921840-blade-repair-technicians-2026) | live | 2026-10-02 |
+| RA-060 | Rope Access Sverige / Swire | Blade Repair Technicians – 2026 | Sweden | Gothenburg; remote project deployment | [source](https://career.ropeaccess.se/jobs/6921840-blade-repair-technicians-2026) | live | 2026-10-03 |
 | RA-061 | Altitude Access Scandinavia | Rope Access (reparbetare) | Sweden | Sweden | [source](https://altitudeaccess.se/dokument_prod/karriar_reparbete.pdf) | expired | 2026-09-20 |
 | RA-062 | leteam / the team ag | Cordiste IRATA 3 | Switzerland | Bex / partner projects | [source](https://www.team.jobs/en/job-offers/zimmermann/cordiste-irata-3-%28h-f-d%29/90473) | needs-revalidation | 2026-08-12 |
 | RA-063 | Bellini Personal | Industriekletterer | Switzerland | Lungern | [source](https://www.jobagent.ch/job/industriekletterer-m-w/324d557777) | needs-revalidation | 2026-08-12 |
@@ -82,7 +82,7 @@ This index preserves canonical public job identity for deduplication. Historical
 | RA-073 | Abalone/client | Cordiste H/F/X | Belgium | Andenne | [source](https://promandenne.be/cordiste-h-f-2/) | needs-revalidation | 2026-08-12 |
 | RA-074 | Seven Rope Access | Alpinista predial | Portugal | Coimbra | [source](https://pt.linkedin.com/jobs/view/alpinista-predial-at-seven-rope-access-4378281404) | needs-revalidation | 2026-08-12 |
 | RA-075 | Dreamwork Solutions | Tilkomstteknikere søkes – Spennende oppdrag i høyden! | Norway | Norway, onshore/offshore | [source](https://www.finn.no/452673357) | expired | 2026-09-11 |
-| RA-076 | StS-ISONOR | Tilkomstteknikere og sikringsledere | Norway | Norway | [source](https://www.finn.no/456090110) | expired | 2026-09-11 |
+| RA-076 | StS-ISONOR | Tilkomstteknikere og sikringsledere | Norway | Norway | [source](https://www.stsisonor.com/karriere/ledige-stillinger/tilkomstteknikere-og-sikringsledere-7400922/) | live | 2026-10-03 |
 | RA-077 | SafeReach AB | Rope Access technician candidate pool | Sweden | Stockholm / Sweden-wide | [source](https://safereach.se/jobba-hos-oss/) | generic-pool/not-active | 2026-09-25 |
 | RA-078 | Altrad Alpha Recruitment | IRATA Level 3 Blade Repair – Team Leads & Assistants | Denmark | Denmark | [source](https://www.linkedin.com/posts/atrad-alpha-recruitment_hiring-now-irata-level-3-blade-repair-activity-7454488617739141120-D_hw) | needs-revalidation | 2026-08-12 |
 | RA-079 | Altrad Alpha Recruitment | Blade Technicians L1, L2, L3 – Cat 4–5 Repairs | Denmark | Denmark | [source](https://www.linkedin.com/posts/victoria-brooke-b47ab320_hiring-now-blade-technicians-l1-l2-l3-activity-7408612709656584193-Jsaw) | needs-revalidation | 2026-08-12 |
@@ -122,7 +122,7 @@ This index preserves canonical public job identity for deduplication. Historical
 | RA-113 | Total Industrial Support B.V. (Totalis) | Insulation technician in possession of IRATA level 1, 2 or 3 certificate | Netherlands | Netherlands; site not stated | [source](https://totalis.nl/vacatures/) | live | 2026-09-25 |
 | RA-114 | Total Industrial Support B.V. (Totalis) | Rope Access team lead | Netherlands | Terneuzen | [source](https://totalis.nl/vacatures/) | live | 2026-09-25 |
 | RA-115 | AD HOC Interim et Recrutement | Ouvrier cordiste F/H/X | France | Marseille / PACA | [source](https://adhocinterimetrecrutement.flatchr.io/fr/company/adhocinterimetrecrutement/vacancy/d3nvzdqpe8kpmyb6-ouvrier-cordiste-f-h-x/) | live | 2026-09-08 |
-| RA-116 | SPIE Wind | Wind Turbine Rope Access Technician – Rotor Blades m/f/d | Germany | Bremen; Germany and European projects | [source](https://spie.de/karriere/stellenangebote/Wind-Turbine-Rope-Access-Technician--Rotor-Blades-m-f-d-2026-1495) | live | 2026-09-29 |
+| RA-116 | SPIE Wind | Wind Turbine Rope Access Technician – Rotor Blades m/f/d | Germany | Bremen; Germany and European projects | [source](https://spie.de/karriere/stellenangebote/Wind-Turbine-Rope-Access-Technician--Rotor-Blades-m-f-d-2026-1495) | live | 2026-10-03 |
 | RA-117 | Klätterservice AB | Level 3 - erfaren reparbetare/supervisor | Sweden | Stockholm | [source](https://jobb.klatterservice.se/jobs/858913-level-3-erfaren-reparbetare-supervisor) | live | 2026-09-21 |
 | RA-118 | Beerenberg | Faglærte og erfarne industrimalere | Norway | Norwegian offshore projects; exact installation not stated | [source](https://beerenberg.com/om-beerenberg/karriere/ledige-stillinger/) | live | 2026-09-25 |
 | RA-119 | SubC Partner | Stillads / Riggere til fast offshore rotation - 2 årigt projekt | Denmark | North Sea offshore; employer based in Esbjerg | [source](https://www.subcpartner.com/career/job-at-subc-partner/job/295243) | live | 2026-09-21 |
@@ -192,7 +192,7 @@ This index preserves canonical public job identity for deduplication. Historical
 | RA-180 | Brand Energy & Infrastructure Services | Rope Access L1/2 IRATA – Verfspuiter/Straler | Netherlands | Den Helder offshore; 14/14 rotation | [source](https://www.beis.com/nl/career/detail/325) | live | 2026-09-26 |
 | RA-181 | TéléCharmey SA | High Ropes Course Operator | Switzerland | Charmey; on-call through end September 2026 | [source](https://www.jobs.ch/en/vacancies/detail/a53ca589-67bd-4268-8b04-a1ac496f26b7/) | live | 2026-09-26 |
 | RA-182 | Height Solutions | Touwtechnieker / Rope Access | Belgium | Vremde; varied work across Belgium | [source](https://www.vdab.be/vindeenjob/vacatures/73823273/touwtechnieker-rope-access) | live | 2026-09-26 |
-| RA-183 | Luxcontrol S.A. | Inspecteur Cordiste | Luxembourg | Belvaux; fall-protection inspection across client sites | [source](https://en.jobs.lu/ApplyForJob.aspx?Id=289446) | live | 2026-09-29 |
+| RA-183 | Luxcontrol S.A. | Inspecteur Cordiste | Luxembourg | Belvaux; fall-protection inspection across client sites | [source](https://en.jobs.lu/ApplyForJob.aspx?Id=289446) | live | 2026-10-03 |
 | RA-184 | Bilfinger ISP Offshore Norway AS | Lokale stillasbyggere til Kårstø | Norway | Tysværvåg/Kårstø; local scaffolders | [source](https://jobs.bilfinger.com/job/Tysv%C3%A6rv%C3%A5g-Lokale-stillasbyggere-til-K%C3%A5rst%C3%B8-11-5565/1265975601/) | live | 2026-09-26 |
 | RA-185 | Scan Con Construction ApS | Riggers Wanted | Denmark | Danish shipyards; repair and new-build departments | [source](https://workindenmark.jobnet.dk/find-job/1fdceacd-3859-4321-8764-d16e16da82a5) | live | 2026-09-29 |
 | RA-186 | ADSS Ltd | IRATA Rope Access Technician (All Levels) | United Kingdom | Uttoxeter channel; ongoing onshore utilities/industrial work | [source](https://uk.indeed.com/viewjob?jk=354f783e7cff96fa) | live | 2026-09-26 |
@@ -215,7 +215,7 @@ This index preserves canonical public job identity for deduplication. Historical
 | RA-203 | GSSP – Global Skill Service Portugal | Coating Inspector / Rope Access Technician | Belgium | Belgium / international projects; exact site not stated | [source](https://emprego.sapo.pt/offers/coating-inspector-rope-access-technician?id=3e0d3600-0a3c-4f96-b50f-e7940dbe5eec) | live | 2026-09-29 |
 | RA-204 | Aker Solutions via NES Advantage / NES Fircroft | NDT Inspector | Norway | Sandsli, Hordaland; land-based with offshore travel | [source](https://www.nesfircroft.com/job/ndt-inspektr---publisert/) | live | 2026-09-29 |
 | RA-205 | JKS A/S | Mechanical Fitter – Industrial Machinery | Denmark | Juelsminde | [source](https://workindenmark.jobnet.dk/find-job/ab73efb8-1141-4949-8c4a-fc123d140f37) | live | 2026-09-29 |
-| RA-206 | SafeReach AB | Experienced Rope Access Technician / Industriklättrare | Sweden | Stockholm; fixed-term 7–8 months | [source](https://se.indeed.com/q-irata-jobb.html?q=irata&vjk=9071a2792a9ac4c2) | live | 2026-10-02 |
+| RA-206 | SafeReach AB | Experienced Rope Access Technician / Industriklättrare | Sweden | Stockholm; fixed-term 7–8 months | [source](https://se.indeed.com/q-irata-jobb.html?q=irata&vjk=9071a2792a9ac4c2) | live | 2026-10-03 |
 | RA-207 | 3KER RAS GROUP / Piepenbrock | Industriekletterer / Höhenarbeiter | Germany | Hamburg and nationwide projects | [source](https://www.arbeitsagentur.de/jobsuche/jobdetail/13103-3134107_4061579-S) | live | 2026-09-29 |
 | RA-208 | ARCTEC services | Konstruktionsmechaniker / Industriekletterer | Germany | Pulheim; industrial plants and occasional deployment | [source](https://www.arbeitsagentur.de/jobsuche/jobdetail/15160-SNXRTQFCO121QT7R-S) | live | 2026-09-29 |
 | RA-209 | Industrie Kletterer Hamburg IKH GmbH | Industriekletterer Level 1–3 | Germany | Hamburg and surrounding region | [source](https://www.industrie-kletterer-hamburg.de/ueber-uns/jobs-bei-ikh/) | live | 2026-09-29 |
@@ -232,10 +232,10 @@ This index preserves canonical public job identity for deduplication. Historical
 | RA-220 | EST Europea Servizi Terminalistici / ISLA | Tecnico IRATA Level 2/3 | Italy | Augusta terminal, Sicily; port, industrial and wind-component work | [source](https://www.jobijoba.it/annunci-di-lavoro/13/142630a6a5cbebc074d4225c329915e1) | live | 2026-09-30 |
 | RA-221 | ALTRAD Services B.V. | Uitvoerder Rope Access | Netherlands | Drachten; projects in the Netherlands | [source](https://bnlaltradservices.recruitee.com/o/uitvoerder-rope-access-drachten) | live | 2026-10-01 |
 | RA-222 | ALTRAD Services Benelux & Spain | Rope Access Supervisor (IRATA 3) | Netherlands | Drachten; Rotterdam region and Dutch on/offshore sites | [source](https://nl.linkedin.com/jobs/view/rope-access-supervisor-irata-3-at-altrad-services-benelux-spain-4463305362) | live | 2026-10-01 |
-| RA-223 | DasTeam | Cordiste nettoyeur / nettoyeuse de vitres | Switzerland | Neuchâtel | [source](https://jobroom.jobcourier.ch/fr/careers/jobad/6736422-cordiste-nettoyeur-nettoyeuse-de-vitres-h-f-d-2000-neuchatel) | live | 2026-10-01 |
+| RA-223 | DasTeam | Cordiste nettoyeur / nettoyeuse de vitres | Switzerland | Neuchâtel | [source](https://jobroom.jobcourier.ch/fr/careers/jobad/6736422-cordiste-nettoyeur-nettoyeuse-de-vitres-h-f-d-2000-neuchatel) | live | 2026-10-03 |
 | RA-224 | Transactive SA / Alty Sàrl | Cordiste expérimenté – Niveau 3 | Switzerland | Lausanne and Geneva region | [source](https://fr.simplyhired.ch/job/XzQvWU4N62r9PuTnfdRWRWgeckLS_zoboCjqDnPXTyGMJQdDHGXYNg) | live | 2026-10-01 |
 | RA-225 | Genesa | Laveur de vitres-cordiste | Luxembourg | Bertrange / Luxembourg | [source](https://www.genesa.lu/jobs) | live | 2026-10-01 |
-| RA-226 | Nor-Operation AS | Rope access technicians with welding or NDT skills | Norway | Kristiansand; yards, rigs and offshore installations | [source](https://bebee.com/no/jobs/rope-access-technicians-with-welding-or-ndt-skills-nor-operation-as--ss-no-1fep4f8) | live | 2026-10-02 |
+| RA-226 | Nor-Operation AS | Rope access technicians with welding or NDT skills | Norway | Kristiansand; yards, rigs and offshore installations | [source](https://bebee.com/no/jobs/rope-access-technicians-with-welding-or-ndt-skills-nor-operation-as--ss-no-1fep4f8) | live | 2026-10-03 |
 | RA-227 | Cabovertical | Alpinista Industrial | Portugal | Amadora / Lisbon | [source](https://pt.linkedin.com/jobs/view/alpinista-industrial-at-cabovertical-4390867783) | live | 2026-10-01 |
 | RA-228 | Altura 77 LDA | Freelancer trabalhos verticais | Portugal | Greater Porto | [source](https://emprego.com/pt-PT/vagas/freelancer-trabalhos-verticais-0a8d2dc7-1bc0-45e9-88ad-19337b4fddff) | live | 2026-10-01 |
 | RA-229 | AACT | Alpinista Industrial – RopeAccess | Portugal | Canidelo | [source](https://www.olx.pt/anuncio/emprego/alpinista-industrial-ropeaccess-trabalho-em-altura-IDIT7Rk.html) | live | 2026-10-01 |
@@ -248,3 +248,10 @@ This index preserves canonical public job identity for deduplication. Historical
 | RA-236 | AlpAccess SRL | Alpinist utilitar | Romania | Constanța; travelling projects | [source](https://www.olx.ro/oferta/loc-de-munca/sc-alpaccess-srl-angajeaza-alpinist-utilitar-IDkW0Xt.html) | live | 2026-10-02 |
 | RA-237 | Blade Power | Rope Access Technician – Blade Inspection and Repairs | Romania / EU | Romania with European travel | [source](https://rejobs.org/en/renewable-energy-jobs/159690-rope-access-technician-blade-inspection-and-repairs-blade-power-renewable-energy-services-srl-niederlassung-deutschland) | live | 2026-10-02 |
 | RA-238 | RIGZEN GROUP SRL | Alpinist utilitar | Romania | Săcele, Brașov; projects across Romania | [source](https://mediere.anofm.ro/app/module/mediere/job/3363395) | live | 2026-10-02 |
+| RA-239 | Energy Rigging | Riggers | Netherlands | Rotterdam; 12-month industrial construction and expansion project | [source](https://energyrigging.com/jobs/rotterdam-riggers) | live | 2026-10-03 |
+| RA-240 | JobTeam Aalborg / client | Stillads rigger | Denmark | Aalborg; construction and industrial projects | [source](https://ijob.dk/job/bygge-anlaeg/stillads-rigger-jobteam-aalborg-c4f6ca68b5) | live | 2026-10-03 |
+| RA-241 | SA Safety | IRATA Rope Access Technicians – Levels 1, 2 and 3 | United Kingdom | Plymouth, Devon and South West projects | [source](https://sasafety.co.uk/rope-access-jobs-in-devon/) | live | 2026-10-03 |
+| RA-242 | EnerMech | Rope Access Mechanical Technician | United Kingdom | North Sea; three-week trip from 15 October | [source](https://uk.linkedin.com/company/enermechresourcing) | live | 2026-10-03 |
+| RA-243 | EnerMech | Rope Access Riggers | United Kingdom | North Sea; October mobilisation from Aberdeen | [source](https://uk.linkedin.com/company/enermechresourcing) | live | 2026-10-03 |
+| RA-244 | ALTRAD | Rope Access Sprayers | United Kingdom | North Sea offshore; 2/3 rotation from 19 October | [source](https://careers.uk.altradservices.com/vacancies/2176/rope-access-sprayers.html) | live | 2026-10-03 |
+| RA-245 | ASCO Workforce Solutions | Rope Access Electrical Technicians | United Kingdom | North Sea; 3/3 rotation from 7 October | [source](https://uk.linkedin.com/jobs/view/rope-access-elec-tech-at-asco-workforce-solutions-4473210377) | live | 2026-10-03 |
