@@ -1,7 +1,7 @@
 # Public job index
 
-Version: **2026-10-06 v1**  
-Stable IDs: **253 distinct records (RA-001–RA-253)**
+Version: **2026-10-07 v1**  
+Stable IDs: **258 distinct records (RA-001–RA-258)**
 
 This index preserves canonical public job identity for deduplication. Historical records are not necessarily live vacancies. Status is the last recorded public state and must be revalidated on cadence. No application or private candidate data is stored here.
 
@@ -127,7 +127,7 @@ This index preserves canonical public job identity for deduplication. Historical
 | RA-118 | Beerenberg | Faglærte og erfarne industrimalere | Norway | Norwegian offshore projects; exact installation not stated | [source](https://beerenberg.com/om-beerenberg/karriere/ledige-stillinger/) | live | 2026-09-25 |
 | RA-119 | SubC Partner | Stillads / Riggere til fast offshore rotation - 2 årigt projekt | Denmark | North Sea offshore; employer based in Esbjerg | [source](https://www.subcpartner.com/career/job-at-subc-partner/job/295243) | live | 2026-09-21 |
 | RA-120 | ATI | ALLROUND ONDERHOUDSMEDEWERKER / ROPE ACCESS TECHNICIAN | Netherlands | Sint Nicolaasga; Netherlands-wide projects | [source](https://www.abseiltechnieken.nl/vacatures/) | live | 2026-09-25 |
-| RA-121 | ACTUAL SWITZERLAND SA | Cordiste | Switzerland | Geneva region | [source](https://www.jobscout24.ch/fr/job/6904999b-1db5-477d-8564-2a7ca5711541/) | live | 2026-10-05 |
+| RA-121 | ACTUAL SWITZERLAND SA | Cordiste | Switzerland | Geneva region | [source](https://www.jobscout24.ch/fr/job/6904999b-1db5-477d-8564-2a7ca5711541/) | live | 2026-10-07 |
 | RA-122 | Actua Lille | Cordiste (H/F) | France | Lille / Hauts-de-France | [source](https://actua.fr/offres/emploi/?id=DAK2OO8PP434&title=cordiste-h-f) | live | 2026-09-09 |
 | RA-123 | CGS Nordic AB | Vi anställer fler Reptekniker | Sweden | Gothenburg area; travel within Sweden | [source](https://vakanser.se/jobb/vi+anstaller+fler+reptekniker+till+vart+goteborgsteam/) | live | 2026-10-06 |
 | RA-124 | FUTURE SERVICES INT. | IRATA L3 Technieker, met doorgroei naar Supervisor – Offshore & Industrie | Belgium | Bredene; offshore and industrial projects | [source](https://www.vdab.be/vindeenjob/vacatures/73571672/irata-l3-technieker-met-doorgroei-naar-supervisor-offshore-industrie) | live | 2026-10-05 |
@@ -264,3 +264,8 @@ This index preserves canonical public job identity for deduplication. Historical
 | RA-251 | Eminent/client | Supervisor offshore-werkzaamheden | Netherlands | Hoofddorp; office-based oversight with occasional offshore/project visits | [source](https://eminentgroep.nl/vacatures/supervisor-offshore-werkzaamheden-hoofddorp-2199076-2/) | live | 2026-10-06 |
 | RA-252 | Synergie Wallonie Construct/client | Cordiste | Belgium | Manhay; construction, façade, concrete/stone repair and rockfall-protection sites | [source](https://www.synergiejobs.be/fr/jobs/6abfbacf15fd06239be909c2/cordiste/) | live | 2026-10-06 |
 | RA-253 | BASF SE | Industriekletterer:in / Seilzugangstechniker:in | Germany | Ludwigshafen am Rhein; industrial rope-access coordination and supervision | [source](https://www.arbeitsagentur.de/jobsuche/jobdetail/16852-44407678-828-S) | live | 2026-10-06 |
+| RA-254 | E-KEEP IDF / client | Cordiste H/F/X | France | Clermont-Ferrand listing; recurring special-access, maintenance, repair and securing works across varying sites | [source](https://www.directemploi.com/candidatOffre/56473337) | live | 2026-10-07 |
+| RA-255 | CAN | Cordiste risques naturels – CQP training followed by contract | France | Eygliers / seven possible agency bases; training January–March 2027 then contract | [source](https://jobs.makesense.org/en/jobs/can-cordiste-risques-naturels-cqp-formation-puis-contrat-hf-aSjeGAMu33wljaPyPrIX) | live | 2026-10-07 |
+| RA-256 | Oceane Interim / client | Cordiste – high-rise cleaning and adhesive installation | France | Paris tower; short initial campaign, immediate start | [source](https://monemploienidf.francetravail.fr/je-trouve-un-emploi/offres-emploi/214GKRG) | live | 2026-10-07 |
+| RA-257 | MARA Srl | Operatore per lavori in fune | Italy | Sondrio; rock consolidation, rockfall nets, avalanche barriers and drilling with weekly travel | [source](https://it.indeed.com/viewjob?jk=61b1cfd01d4a93fa) | live | 2026-10-07 |
+| RA-258 | Baiocco Holding | Operatore edile su fune | Italy | Rome; façade, balcony, waterproofing and building-maintenance works | [source](https://it.indeed.com/viewjob?jk=1dc6aa09179fc6c2) | live | 2026-10-07 |
