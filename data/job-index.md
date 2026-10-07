@@ -1,7 +1,7 @@
 # Public job index
 
-Version: **2026-10-07 v1**  
-Stable IDs: **258 distinct records (RA-001–RA-258)**
+Version: **2026-10-08 v1**  
+Stable IDs: **262 distinct records (RA-001–RA-262)**
 
 This index preserves canonical public job identity for deduplication. Historical records are not necessarily live vacancies. Status is the last recorded public state and must be revalidated on cadence. No application or private candidate data is stored here.
 
@@ -131,7 +131,7 @@ This index preserves canonical public job identity for deduplication. Historical
 | RA-122 | Actua Lille | Cordiste (H/F) | France | Lille / Hauts-de-France | [source](https://actua.fr/offres/emploi/?id=DAK2OO8PP434&title=cordiste-h-f) | live | 2026-09-09 |
 | RA-123 | CGS Nordic AB | Vi anställer fler Reptekniker | Sweden | Gothenburg area; travel within Sweden | [source](https://vakanser.se/jobb/vi+anstaller+fler+reptekniker+till+vart+goteborgsteam/) | live | 2026-10-06 |
 | RA-124 | FUTURE SERVICES INT. | IRATA L3 Technieker, met doorgroei naar Supervisor – Offshore & Industrie | Belgium | Bredene; offshore and industrial projects | [source](https://www.vdab.be/vindeenjob/vacatures/73571672/irata-l3-technieker-met-doorgroei-naar-supervisor-offshore-industrie) | live | 2026-10-05 |
-| RA-125 | KAEFER | Tilkomstteknikere og sikringsledere | Norway | Norwegian offshore/onshore contracts; Stavanger HQ | [source](https://kaeferenergy.no/karriere/tilkomstteknikere-og-sikringsledere/) | live | 2026-09-25 |
+| RA-125 | KAEFER | Tilkomstteknikere og sikringsledere | Norway | Norwegian offshore/onshore contracts; Stavanger HQ | [source](https://kaeferenergy.no/karriere/tilkomstteknikere-og-sikringsledere/) | live | 2026-10-08 |
 | RA-126 | Total Industrial Support B.V. (Totalis) | insulation technicians and scaffolders | Netherlands | Delft, Emmen and Geleen | [source](https://totalis.nl/vacatures/) | live | 2026-09-25 |
 | RA-127 | Rope Access Sverige AB | Advanced Blade Repair Technician for LM Project | Sweden / Norway | Sweden and Norway; Stockholm listed | [source](https://career.ropeaccess.se/jobs/7163557-advanced-blade-repair-technician-for-lm-project) | unclear/project-window-ended | 2026-10-02 |
 | RA-128 | GO RH Solutions | CORDISTE H/F | Luxembourg | Luxembourg; precise site not stated | [source](https://www.gorh.lu/offres-d-emploi/offre-d-emploi_cordiste_h_f_1477912_41.html) | live | 2026-09-21 |
@@ -203,7 +203,7 @@ This index preserves canonical public job identity for deduplication. Historical
 | RA-191 | B-MOREHR/client | Touwtechnieker / ramenwasser | Belgium | Aartselaar; Antwerp petrochemical and port sites | [source](https://www.vdab.be/vindeenjob/vacatures/74347451/touwtechnieker-ramenwasser-i-aartselaar) | live | 2026-09-27 |
 | RA-192 | WORKPLACE/client | Cordiste - Luxembourg H/F | Luxembourg | Luxembourg; façades, industrial structures and varied sites | [source](https://www.hellowork.com/fr-fr/emplois/83564026.html) | live | 2026-09-27 |
 | RA-193 | IMPULSE INTERIM/client | Échafaudeur H/F | Luxembourg | Luxembourg worksites | [source](https://en.moovijob.com/job-offers/impulse-interim/echafaudeur-hf-d26c6) | live | 2026-10-05 |
-| RA-194 | Hytech Access & Inspection AS | Tilkomsttekniker med elektriker fagbrev | Norway | Sola channel; onshore rope-access and offshore projects | [source](https://arbeidsplassen.nav.no/stillinger/stilling/e3667175-5880-4d15-86b3-d850ab056b32) | live | 2026-10-05 |
+| RA-194 | Hytech Access & Inspection AS | Tilkomsttekniker med elektriker fagbrev | Norway | Sola channel; onshore rope-access and offshore projects | [source](https://arbeidsplassen.nav.no/stillinger/stilling/e3667175-5880-4d15-86b3-d850ab056b32) | live | 2026-10-08 |
 | RA-195 | Ulstein Verft | Operatørar Rigg & Service | Norway | Ulsteinvik | [source](https://www.finn.no/job/ad/474458654) | live | 2026-09-28 |
 | RA-196 | J.V. Price Ltd (The Price Group) | Rope Access Technician | UK | West Midlands Region | [source](https://uk.indeed.com/q-rope-access-technician-l-birmingham-jobs.html) | live | 2026-09-28 |
 | RA-197 | Southbank Rope Access Ltd | Rope Access IRATA | UK | Greater London | [source](https://uk.indeed.com/q-irata-rope-access-jobs.html) | live | 2026-09-28 |
@@ -269,3 +269,8 @@ This index preserves canonical public job identity for deduplication. Historical
 | RA-256 | Oceane Interim / client | Cordiste – high-rise cleaning and adhesive installation | France | Paris tower; short initial campaign, immediate start | [source](https://monemploienidf.francetravail.fr/je-trouve-un-emploi/offres-emploi/214GKRG) | live | 2026-10-07 |
 | RA-257 | MARA Srl | Operatore per lavori in fune | Italy | Sondrio; rock consolidation, rockfall nets, avalanche barriers and drilling with weekly travel | [source](https://it.indeed.com/viewjob?jk=61b1cfd01d4a93fa) | live | 2026-10-07 |
 | RA-258 | Baiocco Holding | Operatore edile su fune | Italy | Rome; façade, balcony, waterproofing and building-maintenance works | [source](https://it.indeed.com/viewjob?jk=1dc6aa09179fc6c2) | live | 2026-10-07 |
+
+| RA-259 | Hytech Access & Inspection AS | Tilkomsttekniker med mekaniker fagbrev | Norway | Sola; offshore/onshore rotation | [source](https://arbeidsplassen.nav.no/stillinger/stilling/4b1a687e-f1f6-4b81-9c07-4bbfa99587ea) | live | 2026-10-08 |
+| RA-260 | Berg Stillas AS | Erfaren stillasmontør | Norway | Sandnes; building and façade-renovation scaffolding | [source](https://onetap.work/en/job/erfaren-stillasmont-r-umiddelbar-oppstart-sandnes-cmuvjavy70cdn0dtp9b35dm8d/) | live | 2026-10-08 |
+| RA-261 | Verticstep | Técnicos de acesso em rapel | Portugal | Lisbon and surrounding project sites | [source](https://www.net-empregos.com/16087185/tecnicos-de-acesso-em-rapel/) | live | 2026-10-08 |
+| RA-262 | OBRALTURA | Alpinista Industrial / Trabalhos em Altura | Portugal | Greater Lisbon; façade maintenance by rope positioning | [source](https://www.olx.pt/anuncio/emprego/alpinista-industrial-trabalhos-em-altura-m-f-obraltura-IDJBKOT.html) | live | 2026-10-08 |
