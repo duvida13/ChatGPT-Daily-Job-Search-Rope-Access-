@@ -1,7 +1,7 @@
 # Seen jobs
 
-Version: **2026-10-09 v1**  
-Stable IDs: **265 distinct records (RA-001–RA-265)**
+Version: **2026-10-10 v1**  
+Stable IDs: **270 distinct records (RA-001–RA-270)**
 
 Background deduplication list used by the scheduled search. This is not a daily publication.
 
@@ -277,3 +277,8 @@ Background deduplication list used by the scheduled search. This is not a daily 
 | RA-263 | COMPASS CORE SOLUTIONS | Technik Turbin Wiatrowych | Poland / Europe | Szczecin base; mobile wind-farm projects across Europe | [source](https://www.pracuj.pl/praca/technik-turbin-wiatrowych-szczecin,oferta,1005136499) | live | 2026-10-09 |
 | RA-264 | OMEGA Wind | Technik Instalacji Turbin Wiatrowych | Poland / Europe | Germany listing; installation projects across Europe | [source](https://www.pracuj.pl/praca/technik-instalacji-turbin-wiatrowych-k-m-niemcy,oferta,12262330) | live | 2026-10-09 |
 | RA-265 | Total Wind PL | Technik Turbin Wiatrowych NORDEX | Poland | Konikowo channel; planned Wałcz installation project from late 2026 | [source](https://www.pracuj.pl/praca/technik-turbin-wiatrowych-nordex-k-m-konikowo-pow-koszalinski,oferta,1005110008) | live | 2026-10-09 |
+| RA-266 | Connected Wind Services Danmark | Special Project Technicians – Offshore heavy-lift rotation | Denmark | Aarhus base; international offshore sites | [source](https://dk.linkedin.com/jobs/view/special-project-technicians-offshore-heavy-lift-rotation-work-at-connected-wind-services-danmark-4458889054) | live | 2026-10-10 |
+| RA-267 | MittelDeutsche Seiltechnik GmbH | Industriekletterer / Höhenarbeiter | Germany | Möser base; assignments throughout Germany, onshore and offshore | [source](https://www.mds-md.de/jobs-industriekletterer) | live | 2026-10-10 |
+| RA-268 | Bilfinger Height Specialists | Industrieel vakman met of zonder IRATA certificaat | Netherlands | Bergschenhoek base; industrial and civil projects | [source](https://heightspecialists.com/vacatures/industrieel-vakman/) | live | 2026-10-10 |
+| RA-269 | Adecco / Vard | Crane Operator / Rigger | Norway | Ålesund; long-term 4/2 rotation | [source](https://karrieresenter.no.adecco.com/en-GB/jobs/8037290-crane-operator-rigger) | live | 2026-10-10 |
+| RA-270 | Jobcenter Baselland AG / client | Höhenarbeiter / Industriekletterer – Level 1, 2 or 3 | Switzerland | Basel; temporary full-time façade and glazing work | [source](https://jobcenterag.ch/alle-jobs?id=194&layout=viewjob) | live | 2026-10-10 |
