@@ -1,10 +1,10 @@
-# Research context
+# Search configuration
 
-Compact public configuration for the cloud research task.
+Background configuration for the daily job search:
 
-- [Workflow](workflow.md) — mandatory search order, rotation, evidence, deduplication, checkpoints and publishing rules.
-- [Search profile](search-profile.md) — minimal non-identifying fit criteria.
-- [Sources](sources.md) — evidenced public employers, agencies, portals and coverage lessons.
-- [Job index](../data/job-index.md) — current stable IDs and canonical public job identity.
+- [Workflow](workflow.md) — country rotation, search order, verification and the one-publication rule.
+- [Search profile](search-profile.md) — non-identifying fit criteria.
+- [Sources](sources.md) — useful public employers, agencies, portals and source notes.
+- [Job index](../data/job-index.md) — stable job identities used to prevent duplicates.
 
-The automation should fetch these compact files at the start of each run. Detailed historical material is consulted only when a specific unresolved question requires it.
+The public result of each completed run is only the dated file under [daily/](../daily/).
