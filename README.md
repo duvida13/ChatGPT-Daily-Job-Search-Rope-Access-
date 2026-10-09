@@ -1,18 +1,15 @@
-# European Rope-Access Job Research
+# European Rope-Access Job Search
 
-Public operational home for daily European rope-access job research.
+A simple collection of dated European rope-access job findings.
 
-## Navigate
+## Daily publications
 
-- [Daily findings](daily/README.md) — concise dated digests of newly verified findings.
-- [Research runs](research/README.md) — public evidence, coverage, query records, limitations and index deltas.
-- [Research context](context/README.md) — mandatory workflow, non-identifying search profile and public source register.
-- [Current job index](data/job-index.md) — stable public job identities used for deduplication.
+Open the [daily jobs folder](daily/) to see one publication for each completed research run. Every dated file contains only the newly verified jobs, grouped by country.
 
-## Operating model
+## Background files
 
-The cloud task runs daily at 06:00 Europe/Amsterdam with daylight-saving time. GitHub is the sole operational research and publishing destination. Each run resumes any same-date checkpoint, updates only changed records, publishes one dated digest, and reads back changed outputs once.
+- [Search rules and profile](context/) — the instructions used to find and assess jobs.
+- [Job index](data/job-index.md) — background deduplication data so the same campaign is not published repeatedly.
+- [Historical research archive](research/) — older detailed run records kept for reference; no new daily reports are added here.
 
-Legacy internal archives remain preserved outside this public repository, but are not an operational dependency. This repository contains no contact details, résumé materials, application history, private personal history or outreach records.
-
-No outreach, applications, purchases, repository visibility changes or permission changes are part of this workflow.
+No outreach or applications are performed by this repository.
