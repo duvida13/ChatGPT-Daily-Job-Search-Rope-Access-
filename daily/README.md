@@ -1,37 +1,5 @@
-# Daily findings
+# Daily job findings
 
-Dated public digests, newest first. Only actual dated files present on `main` are listed.
+One dated publication is created for each completed research run. Each `YYYY-MM-DD.md` file contains only the newly verified jobs, grouped by country.
 
-- [2026-10-09](2026-10-09.md)
-- [2026-10-08](2026-10-08.md)
-- [2026-10-07](2026-10-07.md)
-- [2026-10-06](2026-10-06.md)
-- [2026-10-05](2026-10-05.md)
-- [2026-10-04](2026-10-04.md)
-- [2026-10-03](2026-10-03.md)
-- [2026-10-02](2026-10-02.md)
-- [2026-10-01](2026-10-01.md)
-- [2026-09-30](2026-09-30.md)
-- [2026-09-29](2026-09-29.md)
-- [2026-09-28](2026-09-28.md)
-- [2026-09-27](2026-09-27.md)
-- [2026-09-26](2026-09-26.md)
-- [2026-09-25](2026-09-25.md)
-- [2026-09-24](2026-09-24.md)
-- [2026-09-23](2026-09-23.md)
-- [2026-09-22](2026-09-22.md)
-- [2026-09-21](2026-09-21.md)
-- [2026-09-20](2026-09-20.md)
-- [2026-09-19](2026-09-19.md)
-- [2026-09-18](2026-09-18.md)
-- [2026-09-17](2026-09-17.md)
-- [2026-09-16](2026-09-16.md)
-- [2026-09-15](2026-09-15.md)
-- [2026-09-14](2026-09-14.md)
-- [2026-09-13](2026-09-13.md)
-- [2026-09-11](2026-09-11.md)
-- [2026-09-10](2026-09-10.md)
-- [2026-09-09](2026-09-09.md)
-- [2026-09-08](2026-09-08.md)
-
-Research evidence and coverage: [research/README.md](../research/README.md).
+The job index and search configuration are background operational files, not additional daily publications.
