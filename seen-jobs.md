@@ -1,7 +1,7 @@
 # Seen jobs
 
-Version: **2026-10-10 v1**  
-Stable IDs: **270 distinct records (RA-001–RA-270)**
+Version: **2026-10-11 v1**  
+Stable IDs: **273 distinct records (RA-001–RA-273)**
 
 Background deduplication list used by the scheduled search. This is not a daily publication.
 
@@ -282,3 +282,6 @@ Background deduplication list used by the scheduled search. This is not a daily 
 | RA-268 | Bilfinger Height Specialists | Industrieel vakman met of zonder IRATA certificaat | Netherlands | Bergschenhoek base; industrial and civil projects | [source](https://heightspecialists.com/vacatures/industrieel-vakman/) | live | 2026-10-10 |
 | RA-269 | Adecco / Vard | Crane Operator / Rigger | Norway | Ålesund; long-term 4/2 rotation | [source](https://karrieresenter.no.adecco.com/en-GB/jobs/8037290-crane-operator-rigger) | live | 2026-10-10 |
 | RA-270 | Jobcenter Baselland AG / client | Höhenarbeiter / Industriekletterer – Level 1, 2 or 3 | Switzerland | Basel; temporary full-time façade and glazing work | [source](https://jobcenterag.ch/alle-jobs?id=194&layout=viewjob) | live | 2026-10-10 |
+| RA-271 | Swire Renewable Energy | Service Electrical Technicians | Germany / Netherlands | German waters; Eemshaven mobilisation; Schleswig-Holstein listing | [source](https://jobs.swire-re.com/o/service-electrical-technicians) | live | 2026-10-11 |
+| RA-272 | Altrad UK, Ireland & Nordics | Rope Access Level 1 – Pipefitter | United Kingdom | Norwich; permanent rope-access pipefitting role | [source](https://careers.uk.altradservices.com/vacancies/2245/rope-access-level-1--pipefitter.html) | live | 2026-10-11 |
+| RA-273 | CAN Group | Rope Access NDT Personnel | United Kingdom / Black Sea | Aberdeen recruitment; offshore Black Sea project starting November 2026 | [source](https://uk.linkedin.com/jobs/view/rope-access-ndt-personnel-at-can-group-4477812285) | live | 2026-10-11 |
