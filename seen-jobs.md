@@ -1,7 +1,7 @@
 # Seen jobs
 
-Version: **2026-10-11 v1**  
-Stable IDs: **273 distinct records (RA-001–RA-273)**
+Version: **2026-10-12 v1**  
+Stable IDs: **274 distinct records (RA-001–RA-274)**
 
 Background deduplication list used by the scheduled search. This is not a daily publication.
 
@@ -27,7 +27,7 @@ Background deduplication list used by the scheduled search. This is not a daily 
 | RA-018 | RTS Wind UK | Rope Access Blade Technicians | UK | UK onshore | [source](https://uk.linkedin.com/company/rts-wind-ltd) | needs-revalidation | 2026-08-12 |
 | RA-019 | Swire Renewable Energy | Blade Technician season 2026 | UK | London / remote deployment | [source](https://uk.indeed.com/viewjob?jk=e2657b103f9650dc) | needs-revalidation | 2026-08-12 |
 | RA-020 | Smith Services | Rope Access Technician Window Cleaning | UK | West Midlands | [source](https://irata.org/jobs) | needs-revalidation | 2026-08-12 |
-| RA-021 | Bidvest Noonan | Rope Access Technician – Industrial Cleaning | Ireland | Swords, County Dublin | [source](https://ie.indeed.com/viewjob?jk=d7bcfa479b2d6fd9) | live | 2026-10-05 |
+| RA-021 | Bidvest Noonan | Rope Access Technician – Industrial Cleaning | Ireland | Swords, County Dublin | [source](https://ie.indeed.com/viewjob?jk=d7bcfa479b2d6fd9) | unclear/application-route-redirect | 2026-10-12 |
 | RA-022 | Sky-Access | Rope Access Technician | Netherlands | Roosendaal; national/international projects | [source](https://sky-access.com/vacatures/) | live | 2026-09-29 |
 | RA-023 | Sky-Access | Rope Access Technician / Supervisor | Netherlands | Roosendaal | [source](https://sky-access.com/vacatures/) | live | 2026-09-29 |
 | RA-024 | Fender BV | Rope Access Technician | Netherlands | Netherlands, onshore/offshore | [source](https://fenderbv.nl/vacatures/rope-access-technician/) | live | 2026-10-04 |
@@ -286,6 +286,8 @@ Background deduplication list used by the scheduled search. This is not a daily 
 | RA-272 | Altrad UK, Ireland & Nordics | Rope Access Level 1 – Pipefitter | United Kingdom | Norwich; permanent rope-access pipefitting role | [source](https://careers.uk.altradservices.com/vacancies/2245/rope-access-level-1--pipefitter.html) | live | 2026-10-11 |
 | RA-273 | CAN Group | Rope Access NDT Personnel | United Kingdom / Black Sea | Aberdeen recruitment; offshore Black Sea project starting November 2026 | [source](https://uk.linkedin.com/jobs/view/rope-access-ndt-personnel-at-can-group-4477812285) | live | 2026-10-11 |
 
+| RA-274 | Energy Rigging | Pipefitters | Netherlands | Rotterdam; October 2026 industrial construction; anticipated 12 months | [source](https://energyrigging.com/jobs/rotterdam-pipefitters) | live | 2026-10-12 |
+
 ## Campaign and availability rules
 
 - Every existing RA ID is already seen: suppress it from future digests unless a verified new hiring episode qualifies below. Never republish merely because publication history is missing.
@@ -305,3 +307,5 @@ This compact background table records only public campaign evidence. Historical 
 
 | Campaign ID | Episode | Observed advert IDs / aliases | First observed | Last confirmed open | Confirmed closed on / reason / evidence | Last checked / availability / evidence | Published on / digest | Reopening or distinct-campaign evidence |
 |---|---|---|---|---|---|---|---|---|
+| RA-274 | 1 | rotterdam-pipefitters; apply/rotterdam?vacancy=pipefitter | 2026-10-12 | 2026-10-12 | unknown | 2026-10-12; open; [advert](https://energyrigging.com/jobs/rotterdam-pipefitters) and [application](https://energyrigging.com/apply/rotterdam?vacancy=pipefitter) | 2026-10-12; [digest](digests/2026-10-12.md) | Distinct pipefitting role, not RA-239 riggers; no reopening claimed |
+| RA-021 | unknown | ATS 24279; Indeed d7bcfa479b2d6fd9 | unknown | 2026-10-05 | unknown | 2026-10-12; unverified application; [advert](https://careers.bidvestnoonan.com/vacancies/24279/rope-access-technician--industrial-cleaning.html) Apply redirected to general vacancy search; closure not confirmed | unknown; previously seen | No reopening evidence; suppressed |
