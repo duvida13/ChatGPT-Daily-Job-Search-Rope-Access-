@@ -285,3 +285,23 @@ Background deduplication list used by the scheduled search. This is not a daily 
 | RA-271 | Swire Renewable Energy | Service Electrical Technicians | Germany / Netherlands | German waters; Eemshaven mobilisation; Schleswig-Holstein listing | [source](https://jobs.swire-re.com/o/service-electrical-technicians) | live | 2026-10-11 |
 | RA-272 | Altrad UK, Ireland & Nordics | Rope Access Level 1 – Pipefitter | United Kingdom | Norwich; permanent rope-access pipefitting role | [source](https://careers.uk.altradservices.com/vacancies/2245/rope-access-level-1--pipefitter.html) | live | 2026-10-11 |
 | RA-273 | CAN Group | Rope Access NDT Personnel | United Kingdom / Black Sea | Aberdeen recruitment; offshore Black Sea project starting November 2026 | [source](https://uk.linkedin.com/jobs/view/rope-access-ndt-personnel-at-can-group-4477812285) | live | 2026-10-11 |
+
+## Campaign and availability rules
+
+- Every existing RA ID is already seen: suppress it from future digests unless a verified new hiring episode qualifies below. Never republish merely because publication history is missing.
+- Match canonical URL/requisition ID and employer, normalized role, actual site, scope and project dates across ALL historical IDs and the current pending digest. Strip tracking parameters; retain meaningful job IDs. Store observed mirrors/aliases. Translation, agency syndication, changed URL/title, refreshed date or unchanged evergreen recruitment is the same episode.
+- A new hiring episode requires current availability plus positive evidence: a previously confirmed closure followed by explicit reopened recruitment, or an evidenced new requisition/project/intake with changed campaign details. Temporary errors, disappearance alone, elapsed time, a new portal ID or a refreshed posting date do not prove reopening. If continuity is uncertain, suppress pending verification.
+- Reuse the stable campaign ID for a reopening; increment its episode and retain closure/publication history. Allocate a new stable ID only for a genuinely distinct campaign. Clearly say "Reopened recruitment" and its factual reason in the digest when applicable.
+- Before publication, freshly open the exact advert and follow its Apply link to a working job-specific application page or explicitly stated active application instructions, without applying or submitting data. Recheck shortlisted links immediately before writing the digest.
+- Verify rendered content, not HTTP success alone: reject explicit closed/filled/expired notices, expired deadlines, ended project windows, soft-404 pages, deleted adverts, redirects to home/search/unrelated roles, and disabled/dead application routes. A past start date alone is not proof of closure; require current evidence of continued recruitment.
+- Employer/authorized ATS evidence outranks a stale portal. For LinkedIn/aggregators, follow the employer route and check contradictions. If unavailable, accept only an observed direct employer/authorized recruiter listing or legitimate mirror with explicit current recruitment, role identity, unexpired campaign and functioning job-specific application route. A search snippet, cached page or fresh portal timestamp is insufficient.
+- Access errors, login walls, 403/429/5xx and timeouts are unverified, not confirmed closed. Do not publish while availability is unresolved; try an observed legitimate alternative. Record confirmed closure separately from unresolved access.
+- Before each write, refresh seen-jobs.md and today's digest; merge changes, deduplicate again, and preserve all IDs/history. Commit publication bookkeeping with successful publication and repair any interrupted partial update before selecting new jobs.
+- Revalidate all candidates for publication every run; rotate existing records in covered countries on a seven-day cadence and revisit unresolved records on the next relevant run. Status updates alone do not cause republication.
+
+## Hiring-episode ledger
+
+This compact background table records only public campaign evidence. Historical publication dates are unknown unless verified from a specific digest; never infer them from Last verified. Existing records remain suppressed by default. Add/update rows when checked; preserve prior episodes. Use ISO dates and unknown for missing evidence.
+
+| Campaign ID | Episode | Observed advert IDs / aliases | First observed | Last confirmed open | Confirmed closed on / reason / evidence | Last checked / availability / evidence | Published on / digest | Reopening or distinct-campaign evidence |
+|---|---|---|---|---|---|---|---|---|
