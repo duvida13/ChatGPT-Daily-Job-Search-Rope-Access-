@@ -1,7 +1,7 @@
 # Seen jobs
 
-Version: **2026-10-12 v1**  
-Stable IDs: **274 distinct records (RA-001–RA-274)**
+Version: **2026-10-14 v1**  
+Stable IDs: **275 distinct records (RA-001–RA-275)**
 
 Background deduplication list used by the scheduled search. This is not a daily publication.
 
@@ -288,6 +288,8 @@ Background deduplication list used by the scheduled search. This is not a daily 
 
 | RA-274 | Energy Rigging | Pipefitters | Netherlands | Rotterdam; October 2026 industrial construction; anticipated 12 months | [source](https://energyrigging.com/jobs/rotterdam-pipefitters) | live | 2026-10-12 |
 
+| RA-275 | Edilfuni srl | Operatore su fune | Italy | Rome; exterior building renovation by rope access | [source](https://it.indeed.com/viewjob?jk=cd61f1a6cc64dbad) | live | 2026-10-14 |
+
 ## Campaign and availability rules
 
 - Every existing RA ID is already seen: suppress it from future digests unless a verified new hiring episode qualifies below. Never republish merely because publication history is missing.
@@ -309,3 +311,4 @@ This compact background table records only public campaign evidence. Historical 
 |---|---|---|---|---|---|---|---|---|
 | RA-274 | 1 | rotterdam-pipefitters; apply/rotterdam?vacancy=pipefitter | 2026-10-12 | 2026-10-12 | unknown | 2026-10-12; open; [advert](https://energyrigging.com/jobs/rotterdam-pipefitters) and [application](https://energyrigging.com/apply/rotterdam?vacancy=pipefitter) | 2026-10-12; [digest](digests/2026-10-12.md) | Distinct pipefitting role, not RA-239 riggers; no reopening claimed |
 | RA-021 | unknown | ATS 24279; Indeed d7bcfa479b2d6fd9 | unknown | 2026-10-05 | unknown | 2026-10-12; unverified application; [advert](https://careers.bidvestnoonan.com/vacancies/24279/rope-access-technician--industrial-cleaning.html) Apply redirected to general vacancy search; closure not confirmed | unknown; previously seen | No reopening evidence; suppressed |
+| RA-275 | 1 | Indeed jk=cd61f1a6cc64dbad; Indeed ApplyableJobId 76b0cda8-bf44-4c2a-a575-3cadd79e2323 | 2026-10-14 | 2026-10-14 | unknown | 2026-10-14; open; [advert](https://it.indeed.com/viewjob?jk=cd61f1a6cc64dbad) and working job-specific Indeed application route | 2026-10-14; [digest](digests/2026-10-14.md) | Distinct employer and Rome building-renovation campaign; no reopening claimed |
