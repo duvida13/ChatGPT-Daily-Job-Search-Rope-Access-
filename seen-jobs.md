@@ -1,7 +1,7 @@
 # Seen jobs
 
-Version: **2026-10-15 v1**  
-Stable IDs: **278 distinct records (RA-001–RA-278)**
+Version: **2026-10-18 v1**  
+Stable IDs: **279 distinct records (RA-001–RA-279)**
 
 Background deduplication list used by the scheduled search. This is not a daily publication.
 
@@ -294,6 +294,8 @@ Background deduplication list used by the scheduled search. This is not a daily 
 | RA-277 | Aprolan 21 | Peón Especialista en Trabajos Verticales | Spain | Mundaka (Busturialdea); indefinite full-time rope-access role | [source](https://www.anetva.org/oferta-de-empleo/peon-especialista-en-trabajos-verticales-2/) | live | 2026-10-15 |
 | RA-278 | Garsan-Sianor | Instalador de líneas de vida | Spain | Madrid; installation and inspection of fall-arrest systems | [source](https://www.anetva.org/oferta-de-empleo/instalador-de-lineas-de-vida-4/) | live | 2026-10-15 |
 
+| RA-279 | Fender BV | Rope Access Supervisor | Netherlands | Netherlands-wide projects; employer based in Ridderkerk | [source](https://fenderbv.com/vacancies/rope-access-supervisor/) | live | 2026-10-18 |
+
 ## Campaign and availability rules
 
 - Every existing RA ID is already seen: suppress it from future digests unless a verified new hiring episode qualifies below. Never republish merely because publication history is missing.
@@ -319,3 +321,5 @@ This compact background table records only public campaign evidence. Historical 
 | RA-276 | 1 | especialista-trabajos-verticales-obra-civil-irata-3 | 2026-09-14 | 2026-10-15 | unknown | 2026-10-15; open; [advert](https://www.anetva.org/oferta-de-empleo/especialista-trabajos-verticales-obra-civil-irata-3/) with current role-specific application instructions | 2026-10-15; [digest](digests/2026-10-15.md) | Distinct Dominion chimney/civil-construction project in Portugal; no reopening claimed |
 | RA-277 | 1 | peon-especialista-en-trabajos-verticales-2 | 2026-10-08 | 2026-10-15 | unknown | 2026-10-15; open; [advert](https://www.anetva.org/oferta-de-empleo/peon-especialista-en-trabajos-verticales-2/) with current role-specific application instructions | 2026-10-15; [digest](digests/2026-10-15.md) | Distinct specialist-labourer campaign from RA-004 first-officer role; no reopening claimed |
 | RA-278 | 1 | instalador-de-lineas-de-vida-4 | 2026-10-01 | 2026-10-15 | unknown | 2026-10-15; open; [advert](https://www.anetva.org/oferta-de-empleo/instalador-de-lineas-de-vida-4/) with current role-specific application instructions | 2026-10-15; [digest](digests/2026-10-15.md) | Distinct Garsan-Sianor Madrid fall-arrest-system campaign; no reopening claimed |
+
+| RA-279 | 1 | rope-access-supervisor; employer application form on advert | 2026-10-18 | 2026-10-18 | unknown | 2026-10-18; open; [advert and application form](https://fenderbv.com/vacancies/rope-access-supervisor/) | 2026-10-18; [digest](digests/2026-10-18.md) | Distinct supervisor campaign from RA-024 rope-access technician; no reopening claimed |
