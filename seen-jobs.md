@@ -1,7 +1,7 @@
 # Seen jobs
 
-Version: **2026-10-18 v1**  
-Stable IDs: **279 distinct records (RA-001–RA-279)**
+Version: **2026-10-21 v1**  
+Stable IDs: **282 distinct records (RA-001–RA-282)**
 
 Background deduplication list used by the scheduled search. This is not a daily publication.
 
@@ -296,6 +296,10 @@ Background deduplication list used by the scheduled search. This is not a daily 
 
 | RA-279 | Fender BV | Rope Access Supervisor | Netherlands | Netherlands-wide projects; employer based in Ridderkerk | [source](https://fenderbv.com/vacancies/rope-access-supervisor/) | live | 2026-10-18 |
 
+| RA-280 | 2High | Operatore in fune – Lombardia | Italy | Cinisello Balsamo (Milan); roof and façade maintenance with national travel | [source](https://2high.it/offerte-di-lavoro/operatore-in-fune-lombardia-2/) | live | 2026-10-21 |
+| RA-281 | 2High | Operatore in fune – Lazio | Italy | Rome; roof and façade maintenance with potentially multi-week national travel | [source](https://2high.it/offerte-di-lavoro/operatore-in-fune-roma/) | live | 2026-10-21 |
+| RA-282 | Adamas edilizia in fune | Assistente operatore in fune | Italy | Rome and province; ground support for rope-access crews | [source](https://it.indeed.com/viewjob?jk=ef0246c7eba9830c) | live | 2026-10-21 |
+
 ## Campaign and availability rules
 
 - Every existing RA ID is already seen: suppress it from future digests unless a verified new hiring episode qualifies below. Never republish merely because publication history is missing.
@@ -323,3 +327,7 @@ This compact background table records only public campaign evidence. Historical 
 | RA-278 | 1 | instalador-de-lineas-de-vida-4 | 2026-10-01 | 2026-10-15 | unknown | 2026-10-15; open; [advert](https://www.anetva.org/oferta-de-empleo/instalador-de-lineas-de-vida-4/) with current role-specific application instructions | 2026-10-15; [digest](digests/2026-10-15.md) | Distinct Garsan-Sianor Madrid fall-arrest-system campaign; no reopening claimed |
 
 | RA-279 | 1 | rope-access-supervisor; employer application form on advert | 2026-10-18 | 2026-10-18 | unknown | 2026-10-18; open; [advert and application form](https://fenderbv.com/vacancies/rope-access-supervisor/) | 2026-10-18; [digest](digests/2026-10-18.md) | Distinct supervisor campaign from RA-024 rope-access technician; no reopening claimed |
+
+| RA-280 | 1 | operatore-in-fune-lombardia-2 | 2026-10-21 | 2026-10-21 | unknown | 2026-10-21; open; [advert with active application instructions](https://2high.it/offerte-di-lavoro/operatore-in-fune-lombardia-2/) | 2026-10-21; [digest](digests/2026-10-21.md) | Distinct Lombardy hiring location and campaign; no reopening claimed |
+| RA-281 | 1 | operatore-in-fune-roma | 2026-10-21 | 2026-10-21 | unknown | 2026-10-21; open; [advert with active application instructions](https://2high.it/offerte-di-lavoro/operatore-in-fune-roma/) | 2026-10-21; [digest](digests/2026-10-21.md) | Distinct Lazio hiring location and campaign; no reopening claimed |
+| RA-282 | 1 | Indeed jk=ef0246c7eba9830c; ApplyableJobId 1c518c7f-8f08-41eb-80e6-78b9dfc0ebb8-eXVscHJvZDE | 2026-10-21 | 2026-10-21 | unknown | 2026-10-21; open; [advert](https://it.indeed.com/viewjob?jk=ef0246c7eba9830c) and working job-specific Indeed application route | 2026-10-21; [digest](digests/2026-10-21.md) | Distinct employer and ground-support role for a rope-access crew; no reopening claimed |
