@@ -1,7 +1,7 @@
 # Seen jobs
 
-Version: **2026-10-21 v1**  
-Stable IDs: **282 distinct records (RA-001–RA-282)**
+Version: **2026-10-22 v1**  
+Stable IDs: **286 distinct records (RA-001–RA-286)**
 
 Background deduplication list used by the scheduled search. This is not a daily publication.
 
@@ -300,6 +300,11 @@ Background deduplication list used by the scheduled search. This is not a daily 
 | RA-281 | 2High | Operatore in fune – Lazio | Italy | Rome; roof and façade maintenance with potentially multi-week national travel | [source](https://2high.it/offerte-di-lavoro/operatore-in-fune-roma/) | live | 2026-10-21 |
 | RA-282 | Adamas edilizia in fune | Assistente operatore in fune | Italy | Rome and province; ground support for rope-access crews | [source](https://it.indeed.com/viewjob?jk=ef0246c7eba9830c) | live | 2026-10-21 |
 
+| RA-283 | Vértico Unipessoal Lda. | Técnico Acesso por cordas (Alpinista) | Portugal | Porto, Gaia and Greater Porto; freelance building-maintenance work | [source](https://pt.linkedin.com/jobs/view/t%C3%A9cnico-acesso-por-cordas-alpinista-at-v%C3%A9rtico-unipessoal-lda-4476575234) | live | 2026-10-22 |
+| RA-284 | Workalpindustry | Alpinista Industrial / Técnico de Acesso por Cordas | Portugal | Coimbra base; projects throughout Portugal | [source](https://emprego.com/pt-PT/vagas/alpinista-industrialtecnico-de-acesso-por-cordas-2b6871b2-a9fc-4f34-ad2b-2a087eacd4d6) | live | 2026-10-22 |
+| RA-285 | 3Up Vertical / NUVEM MATIZADA LDA | Técnico de acesso por cordas / alpinista | Portugal | Lisbon and surrounding area; façade painting and maintenance | [source](https://www.net-empregos.com/16103208/tecnico-acesso-por-cordas-alpinista-reparacao-e-pintura/) | live | 2026-10-22 |
+| RA-286 | Tecnorenova Renovables | Técnico/a IRATA L2 | Spain | National and international wind projects | [source](https://tecnorenova.com/ofertas-empleo/tecnico-a-irata-l2/) | live | 2026-10-22 |
+
 ## Campaign and availability rules
 
 - Every existing RA ID is already seen: suppress it from future digests unless a verified new hiring episode qualifies below. Never republish merely because publication history is missing.
@@ -331,3 +336,8 @@ This compact background table records only public campaign evidence. Historical 
 | RA-280 | 1 | operatore-in-fune-lombardia-2 | 2026-10-21 | 2026-10-21 | unknown | 2026-10-21; open; [advert with active application instructions](https://2high.it/offerte-di-lavoro/operatore-in-fune-lombardia-2/) | 2026-10-21; [digest](digests/2026-10-21.md) | Distinct Lombardy hiring location and campaign; no reopening claimed |
 | RA-281 | 1 | operatore-in-fune-roma | 2026-10-21 | 2026-10-21 | unknown | 2026-10-21; open; [advert with active application instructions](https://2high.it/offerte-di-lavoro/operatore-in-fune-roma/) | 2026-10-21; [digest](digests/2026-10-21.md) | Distinct Lazio hiring location and campaign; no reopening claimed |
 | RA-282 | 1 | Indeed jk=ef0246c7eba9830c; ApplyableJobId 1c518c7f-8f08-41eb-80e6-78b9dfc0ebb8-eXVscHJvZDE | 2026-10-21 | 2026-10-21 | unknown | 2026-10-21; open; [advert](https://it.indeed.com/viewjob?jk=ef0246c7eba9830c) and working job-specific Indeed application route | 2026-10-21; [digest](digests/2026-10-21.md) | Distinct employer and ground-support role for a rope-access crew; no reopening claimed |
+
+| RA-283 | 1 | LinkedIn 4476575234 | 2026-10-22 | 2026-10-22 | unknown | 2026-10-22; open; [advert with explicit current application instructions](https://pt.linkedin.com/jobs/view/t%C3%A9cnico-acesso-por-cordas-alpinista-at-v%C3%A9rtico-unipessoal-lda-4476575234) | 2026-10-22; [digest](digests/2026-10-22.md) | Distinct Vértico Greater Porto freelance recruitment; no reopening claimed |
+| RA-284 | 1 | emprego.com 2b6871b2-a9fc-4f34-ad2b-2a087eacd4d6; Net-Empregos 16019842 | 2026-10-22 | 2026-10-22 | unknown | 2026-10-22; open through 2026-11-18; [advert](https://emprego.com/pt-PT/vagas/alpinista-industrialtecnico-de-acesso-por-cordas-2b6871b2-a9fc-4f34-ad2b-2a087eacd4d6) and [observed mirror with explicit application instructions](https://www.net-empregos.com/16019842/alpinista-industrial-tecnico-de-acesso-por-cordas/) | 2026-10-22; [digest](digests/2026-10-22.md) | Distinct Workalpindustry nationwide campaign; no reopening claimed |
+| RA-285 | 1 | Net-Empregos 16103208; 3Up Vertical; NUVEM MATIZADA LDA | 2026-10-22 | 2026-10-22 | unknown | 2026-10-22; open; [advert with explicit application instructions](https://www.net-empregos.com/16103208/tecnico-acesso-por-cordas-alpinista-reparacao-e-pintura/) | 2026-10-22; [digest](digests/2026-10-22.md) | Distinct Lisbon façade campaign; listing entity differs from the company named in the description; no reopening claimed |
+| RA-286 | 1 | tecnico-a-irata-l2 | 2026-10-22 | 2026-10-22 | unknown | 2026-10-22; open; [employer advert with explicit application instructions](https://tecnorenova.com/ofertas-empleo/tecnico-a-irata-l2/) | 2026-10-22; [digest](digests/2026-10-22.md) | Distinct Tecnorenova Level 2 wind-project campaign; no reopening claimed |
