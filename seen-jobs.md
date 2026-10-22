@@ -1,7 +1,7 @@
 # Seen jobs
 
-Version: **2026-10-22 v1**  
-Stable IDs: **286 distinct records (RA-001–RA-286)**
+Version: **2026-10-23 v1**  
+Stable IDs: **287 distinct records (RA-001–RA-287)**
 
 Background deduplication list used by the scheduled search. This is not a daily publication.
 
@@ -305,6 +305,8 @@ Background deduplication list used by the scheduled search. This is not a daily 
 | RA-285 | 3Up Vertical / NUVEM MATIZADA LDA | Técnico de acesso por cordas / alpinista | Portugal | Lisbon and surrounding area; façade painting and maintenance | [source](https://www.net-empregos.com/16103208/tecnico-acesso-por-cordas-alpinista-reparacao-e-pintura/) | live | 2026-10-22 |
 | RA-286 | Tecnorenova Renovables | Técnico/a IRATA L2 | Spain | National and international wind projects | [source](https://tecnorenova.com/ofertas-empleo/tecnico-a-irata-l2/) | live | 2026-10-22 |
 
+| RA-287 | KOSTRO | Alpinista/Alpinistka przemysłowy | Poland | Płock; rope-access work on industrial structures and equipment | [source](https://www.pracuj.pl/praca/alpinista-alpinistka-przemyslowy-plock-witolda-zglenickiego-42a,oferta,1005155370) | live | 2026-10-23 |
+
 ## Campaign and availability rules
 
 - Every existing RA ID is already seen: suppress it from future digests unless a verified new hiring episode qualifies below. Never republish merely because publication history is missing.
@@ -341,3 +343,4 @@ This compact background table records only public campaign evidence. Historical 
 | RA-284 | 1 | emprego.com 2b6871b2-a9fc-4f34-ad2b-2a087eacd4d6; Net-Empregos 16019842 | 2026-10-22 | 2026-10-22 | unknown | 2026-10-22; open through 2026-11-18; [advert](https://emprego.com/pt-PT/vagas/alpinista-industrialtecnico-de-acesso-por-cordas-2b6871b2-a9fc-4f34-ad2b-2a087eacd4d6) and [observed mirror with explicit application instructions](https://www.net-empregos.com/16019842/alpinista-industrial-tecnico-de-acesso-por-cordas/) | 2026-10-22; [digest](digests/2026-10-22.md) | Distinct Workalpindustry nationwide campaign; no reopening claimed |
 | RA-285 | 1 | Net-Empregos 16103208; 3Up Vertical; NUVEM MATIZADA LDA | 2026-10-22 | 2026-10-22 | unknown | 2026-10-22; open; [advert with explicit application instructions](https://www.net-empregos.com/16103208/tecnico-acesso-por-cordas-alpinista-reparacao-e-pintura/) | 2026-10-22; [digest](digests/2026-10-22.md) | Distinct Lisbon façade campaign; listing entity differs from the company named in the description; no reopening claimed |
 | RA-286 | 1 | tecnico-a-irata-l2 | 2026-10-22 | 2026-10-22 | unknown | 2026-10-22; open; [employer advert with explicit application instructions](https://tecnorenova.com/ofertas-empleo/tecnico-a-irata-l2/) | 2026-10-22; [digest](digests/2026-10-22.md) | Distinct Tecnorenova Level 2 wind-project campaign; no reopening claimed |
+| RA-287 | 1 | Pracuj.pl offer 1005155370 | 2026-10-23 | 2026-10-23 | unknown | 2026-10-23; open through 2026-11-12; [advert with job-specific application form](https://www.pracuj.pl/praca/alpinista-alpinistka-przemyslowy-plock-witolda-zglenickiego-42a,oferta,1005155370) | 2026-10-23; [digest](digests/2026-10-23.md) | Distinct KOSTRO industrial rope-access recruitment in Płock; no reopening claimed |
