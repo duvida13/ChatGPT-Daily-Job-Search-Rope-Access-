@@ -1,7 +1,7 @@
 # Seen jobs
 
-Version: **2026-10-25 v1**  
-Stable IDs: **288 distinct records (RA-001–RA-288)**
+Version: **2026-10-26 v1**  
+Stable IDs: **289 distinct records (RA-001–RA-289)**
 
 Background deduplication list used by the scheduled search. This is not a daily publication.
 
@@ -309,6 +309,8 @@ Background deduplication list used by the scheduled search. This is not a daily 
 
 | RA-288 | Geo-Hoehenarbeit AG | Höhen- und Spezialarbeiten mit Seilzugangstechnik | Switzerland | Grabs, St. Gallen; construction, renovation, safety and geological specialist-access projects | [source](https://www.geo-hoehenarbeit.ch/jobs) | live | 2026-10-25 |
 
+| RA-289 | GH Intérim / client | Cordiste (H/F/X) – Chef d’équipe | Luxembourg | Luxembourg; rope-access team leadership across client sites, exact sites not stated | [source](https://www.ghinterim.lu/offres-d-emploi/offres-emploi-cordiste-h-f-x-chef-dequipes-1479946-41.html) | live | 2026-10-26 |
+
 ## Campaign and availability rules
 
 - Every existing RA ID is already seen: suppress it from future digests unless a verified new hiring episode qualifies below. Never republish merely because publication history is missing.
@@ -347,3 +349,4 @@ This compact background table records only public campaign evidence. Historical 
 | RA-286 | 1 | tecnico-a-irata-l2 | 2026-10-22 | 2026-10-22 | unknown | 2026-10-22; open; [employer advert with explicit application instructions](https://tecnorenova.com/ofertas-empleo/tecnico-a-irata-l2/) | 2026-10-22; [digest](digests/2026-10-22.md) | Distinct Tecnorenova Level 2 wind-project campaign; no reopening claimed |
 | RA-287 | 1 | Pracuj.pl offer 1005155370 | 2026-10-23 | 2026-10-23 | unknown | 2026-10-23; open through 2026-11-12; [advert with job-specific application form](https://www.pracuj.pl/praca/alpinista-alpinistka-przemyslowy-plock-witolda-zglenickiego-42a,oferta,1005155370) | 2026-10-23; [digest](digests/2026-10-23.md) | Distinct KOSTRO industrial rope-access recruitment in Płock; no reopening claimed |
 | RA-288 | 1 | geo-hoehenarbeit.ch/jobs; Stellenausschreibung.pdf | 2026-10-25 | 2026-10-25 | unknown | 2026-10-25; open; [employer advert with explicit current application instructions](https://www.geo-hoehenarbeit.ch/jobs) | 2026-10-25; [digest](digests/2026-10-25.md) | Distinct Geo-Hoehenarbeit recruitment in Grabs; no reopening claimed |
+| RA-289 | 1 | GH Intérim 1479946-41 | 2026-10-26 | 2026-10-26 | unknown | 2026-10-26; open; [authorized recruiter advert with explicit application instructions](https://www.ghinterim.lu/offres-d-emploi/offres-emploi-cordiste-h-f-x-chef-dequipes-1479946-41.html) | 2026-10-26; [digest](digests/2026-10-26.md) | Distinct team-leader campaign from RA-143 rope-access technician role; no reopening claimed |
