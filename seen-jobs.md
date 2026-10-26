@@ -1,7 +1,7 @@
 # Seen jobs
 
-Version: **2026-10-26 v1**  
-Stable IDs: **289 distinct records (RA-001–RA-289)**
+Version: **2026-10-27 v1**  
+Stable IDs: **292 distinct records (RA-001–RA-292)**
 
 Background deduplication list used by the scheduled search. This is not a daily publication.
 
@@ -311,6 +311,10 @@ Background deduplication list used by the scheduled search. This is not a daily 
 
 | RA-289 | GH Intérim / client | Cordiste (H/F/X) – Chef d’équipe | Luxembourg | Luxembourg; rope-access team leadership across client sites, exact sites not stated | [source](https://www.ghinterim.lu/offres-d-emploi/offres-emploi-cordiste-h-f-x-chef-dequipes-1479946-41.html) | live | 2026-10-26 |
 
+| RA-290 | Axia Interim / client | Cordiste (H/F/X) | Luxembourg | Esch-sur-Alzette recruiter; client sites in Luxembourg; industrial maintenance, façade cleaning, crane equipment, civil works and slope protection | [source](https://www.moovijob.com/offres-d-emploi/axia-interim-agence-industrie/cordiste-hfx-464cb) | live | 2026-10-27 |
+| RA-291 | SPIE Wind Germany | Industriekletterer Rotorblatt mittels Seilzugangstechnik | Germany / Europe | Bremen base; Germany-wide and Europe-wide wind-turbine blade inspection, maintenance and repair | [source](https://www.spie-wind.com/job/49579/industriekletterer-rotorblatt-mittels-seilzugangstechnik-mwd/) | live | 2026-10-27 |
+| RA-292 | Luxcontrol | Inspector – Rope Access Technician | Luxembourg | Belvaux; safety inspection of fall-protection installations at height and depth | [source](https://www.luxcontrol.com/en/jobs/inspector-rope-access-technician-253) | live | 2026-10-27 |
+
 ## Campaign and availability rules
 
 - Every existing RA ID is already seen: suppress it from future digests unless a verified new hiring episode qualifies below. Never republish merely because publication history is missing.
@@ -350,3 +354,7 @@ This compact background table records only public campaign evidence. Historical 
 | RA-287 | 1 | Pracuj.pl offer 1005155370 | 2026-10-23 | 2026-10-23 | unknown | 2026-10-23; open through 2026-11-12; [advert with job-specific application form](https://www.pracuj.pl/praca/alpinista-alpinistka-przemyslowy-plock-witolda-zglenickiego-42a,oferta,1005155370) | 2026-10-23; [digest](digests/2026-10-23.md) | Distinct KOSTRO industrial rope-access recruitment in Płock; no reopening claimed |
 | RA-288 | 1 | geo-hoehenarbeit.ch/jobs; Stellenausschreibung.pdf | 2026-10-25 | 2026-10-25 | unknown | 2026-10-25; open; [employer advert with explicit current application instructions](https://www.geo-hoehenarbeit.ch/jobs) | 2026-10-25; [digest](digests/2026-10-25.md) | Distinct Geo-Hoehenarbeit recruitment in Grabs; no reopening claimed |
 | RA-289 | 1 | GH Intérim 1479946-41 | 2026-10-26 | 2026-10-26 | unknown | 2026-10-26; open; [authorized recruiter advert with explicit application instructions](https://www.ghinterim.lu/offres-d-emploi/offres-emploi-cordiste-h-f-x-chef-dequipes-1479946-41.html) | 2026-10-26; [digest](digests/2026-10-26.md) | Distinct team-leader campaign from RA-143 rope-access technician role; no reopening claimed |
+
+| RA-290 | 1 | Moovijob 464cb; Axia Interim Esch-sur-Alzette | 2026-10-27 | 2026-10-27 | unknown | 2026-10-27; open; [authorized recruiter advert with embedded job-specific application form](https://www.moovijob.com/offres-d-emploi/axia-interim-agence-industrie/cordiste-hfx-464cb) | 2026-10-27; [digest](digests/2026-10-27.md) | Distinct Axia/client rope-access campaign; no reopening claimed |
+| RA-291 | 1 | SPIE Wind job 49579; requisition 2025-1425; d.vinci 49579 | 2026-10-27 | 2026-10-27 | unknown | 2026-10-27; open; [employer advert](https://www.spie-wind.com/job/49579/industriekletterer-rotorblatt-mittels-seilzugangstechnik-mwd/) and working [job-specific application route](https://spie.dvinci-hr.com/de/p/isw/jobs/49579/intro) | 2026-10-27; [digest](digests/2026-10-27.md) | Distinct SPIE Wind requisition 2025-1425; no reopening claimed |
+| RA-292 | 1 | Luxcontrol job 253; inspector-rope-access-technician-253 | 2026-10-27 | 2026-10-27 | unknown | 2026-10-27; open; [employer advert](https://www.luxcontrol.com/en/jobs/inspector-rope-access-technician-253) and working [job-specific application form](https://www.luxcontrol.com/en/jobs/apply/inspector-rope-access-technician-253) | 2026-10-27; [digest](digests/2026-10-27.md) | Distinct Luxcontrol safety-inspection recruitment in Belvaux; no reopening claimed |
