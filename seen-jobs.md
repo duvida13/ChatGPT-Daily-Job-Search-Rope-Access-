@@ -1,7 +1,7 @@
 # Seen jobs
 
-Version: **2026-10-27 v1**  
-Stable IDs: **292 distinct records (RA-001–RA-292)**
+Version: **2026-10-28 v1**  
+Stable IDs: **296 distinct records (RA-001–RA-296)**
 
 Background deduplication list used by the scheduled search. This is not a daily publication.
 
@@ -315,6 +315,11 @@ Background deduplication list used by the scheduled search. This is not a daily 
 | RA-291 | SPIE Wind Germany | Industriekletterer Rotorblatt mittels Seilzugangstechnik | Germany / Europe | Bremen base; Germany-wide and Europe-wide wind-turbine blade inspection, maintenance and repair | [source](https://www.spie-wind.com/job/49579/industriekletterer-rotorblatt-mittels-seilzugangstechnik-mwd/) | live | 2026-10-27 |
 | RA-292 | Luxcontrol | Inspector – Rope Access Technician | Luxembourg | Belvaux; safety inspection of fall-protection installations at height and depth | [source](https://www.luxcontrol.com/en/jobs/inspector-rope-access-technician-253) | live | 2026-10-27 |
 
+| RA-293 | Abseiltechnieken / ATI Rope Access | Allround Onderhoudsmedewerker / Rope Access Technician | Netherlands | Sint Nicolaasga base; maintenance, mounting, cleaning, painting and inspection across the Netherlands and sometimes abroad | [source](https://www.abseiltechnieken.nl/vacatures/) | live | 2026-10-28 |
+| RA-294 | REZOLIBRI / client | Cordiste H/F | France | Coubron; seasonal rope-access assignment from 22 October to 30 November 2026 | [source](https://www.hellowork.com/fr-fr/emplois/84706625.html) | live | 2026-10-28 |
+| RA-295 | Empleo / client | Cordiste Urbain H/F | France | Toulouse and surrounding area; urban masonry, façade, roof and maintenance works through 23 December 2026, potentially extendable | [source](https://www.hellowork.com/fr-fr/emplois/84622252.html) | live | 2026-10-28 |
+| RA-296 | Groupe Balas | Cordiste CQP1 H/F | France | Gennevilliers / project sites; façade, roof, bridge and infrastructure rope-access maintenance | [source](https://www.hellowork.com/fr-fr/emplois/77125094.html) | live | 2026-10-28 |
+
 ## Campaign and availability rules
 
 - Every existing RA ID is already seen: suppress it from future digests unless a verified new hiring episode qualifies below. Never republish merely because publication history is missing.
@@ -358,3 +363,8 @@ This compact background table records only public campaign evidence. Historical 
 | RA-290 | 1 | Moovijob 464cb; Axia Interim Esch-sur-Alzette | 2026-10-27 | 2026-10-27 | unknown | 2026-10-27; open; [authorized recruiter advert with embedded job-specific application form](https://www.moovijob.com/offres-d-emploi/axia-interim-agence-industrie/cordiste-hfx-464cb) | 2026-10-27; [digest](digests/2026-10-27.md) | Distinct Axia/client rope-access campaign; no reopening claimed |
 | RA-291 | 1 | SPIE Wind job 49579; requisition 2025-1425; d.vinci 49579 | 2026-10-27 | 2026-10-27 | unknown | 2026-10-27; open; [employer advert](https://www.spie-wind.com/job/49579/industriekletterer-rotorblatt-mittels-seilzugangstechnik-mwd/) and working [job-specific application route](https://spie.dvinci-hr.com/de/p/isw/jobs/49579/intro) | 2026-10-27; [digest](digests/2026-10-27.md) | Distinct SPIE Wind requisition 2025-1425; no reopening claimed |
 | RA-292 | 1 | Luxcontrol job 253; inspector-rope-access-technician-253 | 2026-10-27 | 2026-10-27 | unknown | 2026-10-27; open; [employer advert](https://www.luxcontrol.com/en/jobs/inspector-rope-access-technician-253) and working [job-specific application form](https://www.luxcontrol.com/en/jobs/apply/inspector-rope-access-technician-253) | 2026-10-27; [digest](digests/2026-10-27.md) | Distinct Luxcontrol safety-inspection recruitment in Belvaux; no reopening claimed |
+
+| RA-293 | 1 | abseiltechnieken.nl/vacatures; ATI Rope Access | 2026-10-28 | 2026-10-28 | unknown | 2026-10-28; open; [employer vacancy with explicit role-specific application instructions](https://www.abseiltechnieken.nl/vacatures/) | 2026-10-28; [digest](digests/2026-10-28.md) | Distinct Sint Nicolaasga maintenance and rope-access recruitment; no reopening claimed |
+| RA-294 | 1 | Hellowork 84706625; reference 31366036 / 1792663005448x781807358384537600 | 2026-10-22 | 2026-10-28 | unknown | 2026-10-28; open through 2026-11-30; [authorized recruiter advert and job-specific application route](https://www.hellowork.com/fr-fr/emplois/84706625.html) | 2026-10-28; [digest](digests/2026-10-28.md) | Distinct Coubron seasonal assignment; no reopening claimed |
+| RA-295 | 1 | Hellowork 84622252; reference GEM21426 | 2026-10-20 | 2026-10-28 | unknown | 2026-10-28; open for 2026-10-28 start through 2026-12-23; [authorized recruiter advert and job-specific application route](https://www.hellowork.com/fr-fr/emplois/84622252.html) | 2026-10-28; [digest](digests/2026-10-28.md) | Distinct Toulouse urban rope-access assignment; no reopening claimed |
+| RA-296 | 1 | Hellowork 77125094; Groupe Balas reference 2489084 | 2026-10-25 | 2026-10-28 | unknown | 2026-10-28; open; [employer-identified advert with job-specific application route](https://www.hellowork.com/fr-fr/emplois/77125094.html) | 2026-10-28; [digest](digests/2026-10-28.md) | Distinct permanent CQP1 recruitment in Gennevilliers; no reopening claimed |
