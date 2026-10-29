@@ -1,7 +1,7 @@
 # Seen jobs
 
-Version: **2026-10-28 v1**  
-Stable IDs: **296 distinct records (RA-001–RA-296)**
+Version: **2026-10-30 v1**  
+Stable IDs: **297 distinct records (RA-001–RA-297)**
 
 Background deduplication list used by the scheduled search. This is not a daily publication.
 
@@ -320,7 +320,7 @@ Background deduplication list used by the scheduled search. This is not a daily 
 | RA-295 | Empleo / client | Cordiste Urbain H/F | France | Toulouse and surrounding area; urban masonry, façade, roof and maintenance works through 23 December 2026, potentially extendable | [source](https://www.hellowork.com/fr-fr/emplois/84622252.html) | live | 2026-10-28 |
 | RA-296 | Groupe Balas | Cordiste CQP1 H/F | France | Gennevilliers / project sites; façade, roof, bridge and infrastructure rope-access maintenance | [source](https://www.hellowork.com/fr-fr/emplois/77125094.html) | live | 2026-10-28 |
 
-## Campaign and availability rules
+| RA-297 | Undisclosed outdoor-advertising employer | Alpinist utilitar – outdoor advertising | Romania | Bucharest and surrounding area (about 100 km); installation, removal and maintenance of outdoor advertising structures | [source](https://www.olx.ro/oferta/loc-de-munca/angajam-colaboram-cu-alpinist-utilitar-lucrari-publicitate-outdoor-IDkvs7y.html) | live | 2026-10-30 |\n\n## Campaign and availability rules
 
 - Every existing RA ID is already seen: suppress it from future digests unless a verified new hiring episode qualifies below. Never republish merely because publication history is missing.
 - Match canonical URL/requisition ID and employer, normalized role, actual site, scope and project dates across ALL historical IDs and the current pending digest. Strip tracking parameters; retain meaningful job IDs. Store observed mirrors/aliases. Translation, agency syndication, changed URL/title, refreshed date or unchanged evergreen recruitment is the same episode.
@@ -368,3 +368,4 @@ This compact background table records only public campaign evidence. Historical 
 | RA-294 | 1 | Hellowork 84706625; reference 31366036 / 1792663005448x781807358384537600 | 2026-10-22 | 2026-10-28 | unknown | 2026-10-28; open through 2026-11-30; [authorized recruiter advert and job-specific application route](https://www.hellowork.com/fr-fr/emplois/84706625.html) | 2026-10-28; [digest](digests/2026-10-28.md) | Distinct Coubron seasonal assignment; no reopening claimed |
 | RA-295 | 1 | Hellowork 84622252; reference GEM21426 | 2026-10-20 | 2026-10-28 | unknown | 2026-10-28; open for 2026-10-28 start through 2026-12-23; [authorized recruiter advert and job-specific application route](https://www.hellowork.com/fr-fr/emplois/84622252.html) | 2026-10-28; [digest](digests/2026-10-28.md) | Distinct Toulouse urban rope-access assignment; no reopening claimed |
 | RA-296 | 1 | Hellowork 77125094; Groupe Balas reference 2489084 | 2026-10-25 | 2026-10-28 | unknown | 2026-10-28; open; [employer-identified advert with job-specific application route](https://www.hellowork.com/fr-fr/emplois/77125094.html) | 2026-10-28; [digest](digests/2026-10-28.md) | Distinct permanent CQP1 recruitment in Gennevilliers; no reopening claimed |
+\n| RA-297 | 1 | OLX ID 303261316; IDkvs7y | 2026-10-16 | 2026-10-30 | unknown | 2026-10-30; open; [job-specific advert with active response route](https://www.olx.ro/oferta/loc-de-munca/angajam-colaboram-cu-alpinist-utilitar-lucrari-publicitate-outdoor-IDkvs7y.html) | 2026-10-30; [digest](digests/2026-10-30.md) | Distinct Bucharest outdoor-advertising rope-access campaign; no reopening claimed |\n
