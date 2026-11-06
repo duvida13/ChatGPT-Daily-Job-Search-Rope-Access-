@@ -1,7 +1,7 @@
 # Seen jobs
 
-Version: **2026-11-06 v1**  
-Stable IDs: **307 distinct records (RA-001–RA-307)**
+Version: **2026-11-07 v1**  
+Stable IDs: **308 distinct records (RA-001–RA-308)**
 
 Background deduplication list used by the scheduled search. This is not a daily publication.
 
@@ -327,6 +327,7 @@ Background deduplication list used by the scheduled search. This is not a daily 
 | RA-305 | FLEX WIND POLAND sp. z o.o. | Rope Access Blade Technician | Poland | Szczecin base; mobile international wind-turbine blade inspection, maintenance and repair | [source](https://www.aplikuj.pl/oferta/3369970/rope-access-blade-technician-flex-wind-poland-sp-z-o-o) | live | 2026-11-06 |
 | RA-306 | SELECT LINE SRL | Alpinist utilitar | Romania | Bucharest Sector 5; five full-time permanent utility-climber vacancies | [source](https://mediere.anofm.ro/app/module/mediere/job/3385773) | live | 2026-11-06 |
 | RA-307 | SOLO S.R.L. | Alpinist utilitar | Romania | Brașov; three full-time permanent working-at-height vacancies | [source](https://mediere.anofm.ro/app/module/mediere/job/3397790) | live | 2026-11-06 |
+| RA-308 | CAN Group | Rope Access Insulator | United Kingdom | UK offshore; two-week thermal-insulation scope commencing 2026-11-13 | [source](https://www.cangroup.net/rope-access-insulator/) | live | 2026-11-07 |
 
 ## Campaign and availability rules
 
@@ -391,3 +392,4 @@ This compact background table records only public campaign evidence. Historical 
 | RA-305 | 1 | Aplikuj 3369970; Pracuj 1005181752; LinkedIn 4483587190 | 2026-10-30 | 2026-11-06 | unknown | 2026-11-06; open through 2026-11-29; [authorized portal advert with embedded job-specific application form](https://www.aplikuj.pl/oferta/3369970/rope-access-blade-technician-flex-wind-poland-sp-z-o-o) | 2026-11-06; [digest](digests/2026-11-06.md) | Distinct Flex Wind Poland blade-technician campaign; no reopening claimed |
 | RA-306 | 1 | ANOFM offer 3385773; COR 711920 | 2026-09-14 | 2026-11-06 | unknown | 2026-11-06; open through 2026-12-14; [official employment-service advert with explicit current CV application instructions](https://mediere.anofm.ro/app/module/mediere/job/3385773) | 2026-11-06; [digest](digests/2026-11-06.md) | Distinct SELECT LINE Bucharest recruitment for five vacancies; no reopening claimed |
 | RA-307 | 1 | ANOFM offer 3397790; COR 711920 | 2026-09-25 | 2026-11-06 | unknown | 2026-11-06; open through 2026-11-28; [official employment-service advert with explicit current CV application instructions](https://mediere.anofm.ro/app/module/mediere/job/3397790) | 2026-11-06; [digest](digests/2026-11-06.md) | Distinct SOLO Brașov recruitment for three newly created vacancies; no reopening claimed |
+| RA-308 | 1 | CAN Group job reference 6B1583; rope-access-insulator | 2026-11-05 | 2026-11-07 | unknown | 2026-11-07; open for two-week UK offshore scope commencing 2026-11-13; [employer advert with explicit job-reference application instructions](https://www.cangroup.net/rope-access-insulator/) | 2026-11-07; [digest](digests/2026-11-07.md) | Distinct CAN Group thermal-insulation scope and job reference 6B1583; no reopening claimed |
