@@ -2,6 +2,6 @@
 
 European rope-access and height-access vacancies, organised by country.
 
-Latest: [digests/2026-11-09.md](digests/2026-11-09.md)
+Latest: [digests/2026-11-10.md](digests/2026-11-10.md)
 
 Older publications: [digests/](digests/)
