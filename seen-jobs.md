@@ -1,7 +1,7 @@
 # Seen jobs
 
-Version: **2026-11-08 v1**  
-Stable IDs: **310 distinct records (RA-001–RA-310)**
+Version: **2026-11-10 v1**  
+Stable IDs: **312 distinct records (RA-001–RA-312)**
 
 Background deduplication list used by the scheduled search. This is not a daily publication.
 
@@ -331,6 +331,9 @@ Background deduplication list used by the scheduled search. This is not a daily 
 | RA-309 | MarktPro / undisclosed partner | Rope Access Technician | Netherlands | Den Haag; onshore and offshore painting, blasting, insulation and mechanical work | [source](https://marktpro.nl/en/jobs/rope-access-technician-den-haag-techniek-den-haag-temporary-techniek-83) | live | 2026-11-08 |
 | RA-310 | Randstad / undisclosed client | Touwtechnieker | Belgium | Boom, Antwerp base; mobile telecom-tower installation and maintenance throughout Belgium | [source](https://www.randstad.be/werknemers/jobs/touwtechnieker_boom_7fe15640-cf50-4e1a-9ce8-950e7012c950/) | live | 2026-11-08 |
 
+| RA-311 | ARHIS / undisclosed client | Cordiste Industrie Urbain (H/F) | Luxembourg | Munsbach; energy, petrochemical, chemical, cement, steel, building and civil-structure sites | [source](https://www.arhis.lu/qui-sommes-nous/offre-emploi/10405) | live | 2026-11-10 |
+| RA-312 | Industriekletterer Dortmund | Industriekletterer / Seilzugangstechniker (m/w/d) | Germany | Dortmund base; changing industrial, power-station and heritage-building sites throughout Germany | [source](https://industriekletterer-dortmund.de/karriere/) | live | 2026-11-10 |
+
 ## Campaign and availability rules
 
 - Every existing RA ID is already seen: suppress it from future digests unless a verified new hiring episode qualifies below. Never republish merely because publication history is missing.
@@ -397,3 +400,5 @@ This compact background table records only public campaign evidence. Historical 
 | RA-308 | 1 | CAN Group job reference 6B1583; rope-access-insulator | 2026-11-05 | 2026-11-07 | unknown | 2026-11-07; open for two-week UK offshore scope commencing 2026-11-13; [employer advert with explicit job-reference application instructions](https://www.cangroup.net/rope-access-insulator/) | 2026-11-07; [digest](digests/2026-11-07.md) | Distinct CAN Group thermal-insulation scope and job reference 6B1583; no reopening claimed |
 | RA-309 | 1 | MarktPro job path rope-access-technician-den-haag-techniek-den-haag-temporary-techniek-83; listing 83 | 2026-10-27 | 2026-11-08 | unknown | 2026-11-08; open; [authorized recruiter advert with embedded job-specific response form](https://marktpro.nl/en/jobs/rope-access-technician-den-haag-techniek-den-haag-temporary-techniek-83) | 2026-11-08; [digest](digests/2026-11-08.md) | Distinct Den Haag onshore/offshore IRATA technician campaign; partner undisclosed; no reopening claimed |
 | RA-310 | 1 | Randstad UUID 7fe15640-cf50-4e1a-9ce8-950e7012c950; reference JN-112026-639952 | 2026-11-05 | 2026-11-08 | unknown | 2026-11-08; open; [authorized recruiter advert with explicit job-reference application instructions](https://www.randstad.be/werknemers/jobs/touwtechnieker_boom_7fe15640-cf50-4e1a-9ce8-950e7012c950/) | 2026-11-08; [digest](digests/2026-11-08.md) | Distinct Boom telecom-tower campaign for mobile worksites throughout Belgium; client undisclosed; no reopening claimed |
+| RA-311 | 1 | ARHIS offer 10405; my.arhis.lu jobboard/candidates/apply/10405 | 2026-11-03 | 2026-11-10 | unknown | 2026-11-10; open; [authorized recruiter advert](https://www.arhis.lu/qui-sommes-nous/offre-emploi/10405) and working [job-specific application form](https://my.arhis.lu/jobboard/candidates/apply/10405) | 2026-11-10; [digest](digests/2026-11-10.md) | Distinct Munsbach industrial/urban rope-access assignment; client undisclosed; no reopening claimed |
+| RA-312 | 1 | industriekletterer-dortmund.de/karriere; employer contact route | 2026-11-06 | 2026-11-10 | unknown | 2026-11-10; open; [employer vacancy with explicit current application instructions](https://industriekletterer-dortmund.de/karriere/) | 2026-11-10; [digest](digests/2026-11-10.md) | Distinct permanent Dortmund-based industrial-climber recruitment; no reopening claimed |
