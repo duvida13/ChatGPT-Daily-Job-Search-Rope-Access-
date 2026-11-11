@@ -1,7 +1,7 @@
 # Seen jobs
 
-Version: **2026-11-10 v1**  
-Stable IDs: **312 distinct records (RA-001–RA-312)**
+Version: **2026-11-12 v1**  
+Stable IDs: **314 distinct records (RA-001–RA-314)**
 
 Background deduplication list used by the scheduled search. This is not a daily publication.
 
@@ -334,6 +334,9 @@ Background deduplication list used by the scheduled search. This is not a daily 
 | RA-311 | ARHIS / undisclosed client | Cordiste Industrie Urbain (H/F) | Luxembourg | Munsbach; energy, petrochemical, chemical, cement, steel, building and civil-structure sites | [source](https://www.arhis.lu/qui-sommes-nous/offre-emploi/10405) | live | 2026-11-10 |
 | RA-312 | Industriekletterer Dortmund | Industriekletterer / Seilzugangstechniker (m/w/d) | Germany | Dortmund base; changing industrial, power-station and heritage-building sites throughout Germany | [source](https://industriekletterer-dortmund.de/karriere/) | live | 2026-11-10 |
 
+| RA-313 | TOPFORT | Operarios de Rigging y montaje de eventos | Spain | Barcelona; event venues and travel as required | [source](https://ttrinternational.com/ofertas-de-empleo/operarios-de-riggin-y-montaje-de-eventos/) | live | 2026-11-12 |
+| RA-314 | De La Rosa Pintors SL | Técnico de Trabajos Verticales | Spain | Granollers base; Vallès Oriental and Barcelona Province projects | [source](https://ttrinternational.com/ofertas-de-empleo/05-11-2026-tecnico-de-trabajos-verticales-en-valles-oriental-y-barcelona/) | live | 2026-11-12 |
+
 ## Campaign and availability rules
 
 - Every existing RA ID is already seen: suppress it from future digests unless a verified new hiring episode qualifies below. Never republish merely because publication history is missing.
@@ -402,3 +405,6 @@ This compact background table records only public campaign evidence. Historical 
 | RA-310 | 1 | Randstad UUID 7fe15640-cf50-4e1a-9ce8-950e7012c950; reference JN-112026-639952 | 2026-11-05 | 2026-11-08 | unknown | 2026-11-08; open; [authorized recruiter advert with explicit job-reference application instructions](https://www.randstad.be/werknemers/jobs/touwtechnieker_boom_7fe15640-cf50-4e1a-9ce8-950e7012c950/) | 2026-11-08; [digest](digests/2026-11-08.md) | Distinct Boom telecom-tower campaign for mobile worksites throughout Belgium; client undisclosed; no reopening claimed |
 | RA-311 | 1 | ARHIS offer 10405; my.arhis.lu jobboard/candidates/apply/10405 | 2026-11-03 | 2026-11-10 | unknown | 2026-11-10; open; [authorized recruiter advert](https://www.arhis.lu/qui-sommes-nous/offre-emploi/10405) and working [job-specific application form](https://my.arhis.lu/jobboard/candidates/apply/10405) | 2026-11-10; [digest](digests/2026-11-10.md) | Distinct Munsbach industrial/urban rope-access assignment; client undisclosed; no reopening claimed |
 | RA-312 | 1 | industriekletterer-dortmund.de/karriere; employer contact route | 2026-11-06 | 2026-11-10 | unknown | 2026-11-10; open; [employer vacancy with explicit current application instructions](https://industriekletterer-dortmund.de/karriere/) | 2026-11-10; [digest](digests/2026-11-10.md) | Distinct permanent Dortmund-based industrial-climber recruitment; no reopening claimed |
+
+| RA-313 | 1 | TTR International operarios-de-riggin-y-montaje-de-eventos; TOPFORT | 2026-10-21 | 2026-11-12 | unknown | 2026-11-12; open; [authorized specialist job-board advert with explicit current application instructions](https://ttrinternational.com/ofertas-de-empleo/operarios-de-riggin-y-montaje-de-eventos/) and listed among [current vacancies](https://ttrinternational.com/es/ofertas-de-empleo/) | 2026-11-12; [digest](digests/2026-11-12.md) | Distinct Barcelona event-rigging and assembly campaign; no reopening claimed |
+| RA-314 | 1 | TTR International 05-11-2026-tecnico-de-trabajos-verticales-en-valles-oriental-y-barcelona; De La Rosa Pintors SL | 2026-11-05 | 2026-11-12 | unknown | 2026-11-12; open; [authorized specialist job-board advert with explicit current application instructions](https://ttrinternational.com/ofertas-de-empleo/05-11-2026-tecnico-de-trabajos-verticales-en-valles-oriental-y-barcelona/) and listed among [current vacancies](https://ttrinternational.com/es/ofertas-de-empleo/) | 2026-11-12; [digest](digests/2026-11-12.md) | Distinct Vallès Oriental and Barcelona Province rope-access and high-level painting recruitment; no reopening claimed |
