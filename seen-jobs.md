@@ -1,7 +1,7 @@
 # Seen jobs
 
-Version: **2026-11-12 v1**  
-Stable IDs: **314 distinct records (RA-001–RA-314)**
+Version: **2026-11-13 v1**  
+Stable IDs: **316 distinct records (RA-001–RA-316)**
 
 Background deduplication list used by the scheduled search. This is not a daily publication.
 
@@ -337,6 +337,9 @@ Background deduplication list used by the scheduled search. This is not a daily 
 | RA-313 | TOPFORT | Operarios de Rigging y montaje de eventos | Spain | Barcelona; event venues and travel as required | [source](https://ttrinternational.com/ofertas-de-empleo/operarios-de-riggin-y-montaje-de-eventos/) | live | 2026-11-12 |
 | RA-314 | De La Rosa Pintors SL | Técnico de Trabajos Verticales | Spain | Granollers base; Vallès Oriental and Barcelona Province projects | [source](https://ttrinternational.com/ofertas-de-empleo/05-11-2026-tecnico-de-trabajos-verticales-en-valles-oriental-y-barcelona/) | live | 2026-11-12 |
 
+| RA-315 | Alpin Partner | Alpinist utilitar | Romania | Satu Mare and surrounding area; travelling construction, repair, installation, cleaning and advertising work using rope, ladders, scaffolds or MEWPs | [source](https://www.olx.ro/oferta/loc-de-munca/alpinist-utilitar-satu-mare-IDl1473.html) | live | 2026-11-13 |
+| RA-316 | NET TEAM (NEC Partner) | Alpinist Utilitar Telecomunicații | Romania | Bucharest base; tower and mast telecommunications projects throughout Romania | [source](https://www.romjob.ro/anunturi/locuri-de-munca/it-telecomunicatii/anunt/alpinist-utilitar-telecomunicatii/6d88f18fffee76501i04efgf14d6213e.html) | live | 2026-11-13 |
+
 ## Campaign and availability rules
 
 - Every existing RA ID is already seen: suppress it from future digests unless a verified new hiring episode qualifies below. Never republish merely because publication history is missing.
@@ -408,3 +411,6 @@ This compact background table records only public campaign evidence. Historical 
 
 | RA-313 | 1 | TTR International operarios-de-riggin-y-montaje-de-eventos; TOPFORT | 2026-10-21 | 2026-11-12 | unknown | 2026-11-12; open; [authorized specialist job-board advert with explicit current application instructions](https://ttrinternational.com/ofertas-de-empleo/operarios-de-riggin-y-montaje-de-eventos/) and listed among [current vacancies](https://ttrinternational.com/es/ofertas-de-empleo/) | 2026-11-12; [digest](digests/2026-11-12.md) | Distinct Barcelona event-rigging and assembly campaign; no reopening claimed |
 | RA-314 | 1 | TTR International 05-11-2026-tecnico-de-trabajos-verticales-en-valles-oriental-y-barcelona; De La Rosa Pintors SL | 2026-11-05 | 2026-11-12 | unknown | 2026-11-12; open; [authorized specialist job-board advert with explicit current application instructions](https://ttrinternational.com/ofertas-de-empleo/05-11-2026-tecnico-de-trabajos-verticales-en-valles-oriental-y-barcelona/) and listed among [current vacancies](https://ttrinternational.com/es/ofertas-de-empleo/) | 2026-11-12; [digest](digests/2026-11-12.md) | Distinct Vallès Oriental and Barcelona Province rope-access and high-level painting recruitment; no reopening claimed |
+
+| RA-315 | 1 | OLX ID 310557197; path IDl1473 | 2026-10-19 | 2026-11-13 | unknown | 2026-11-13; open; [current advert with explicit CV application instructions and working job-specific Apply route](https://www.olx.ro/oferta/loc-de-munca/alpinist-utilitar-satu-mare-IDl1473.html) | 2026-11-13; [digest](digests/2026-11-13.md) | Distinct two-person Satu Mare height-work team recruitment; no reopening claimed |
+| RA-316 | 1 | Romjob ID 1793736765; LinkedIn job 4485021109; Publi24 alias 6d88f18fffee76501i04efgf14d6213e | 2026-11-03 | 2026-11-13 | unknown | 2026-11-13; open; [current legitimate mirror with job-specific CV application route](https://www.romjob.ro/anunturi/locuri-de-munca/it-telecomunicatii/anunt/alpinist-utilitar-telecomunicatii/6d88f18fffee76501i04efgf14d6213e.html) corroborated by [current company listing](https://ro.linkedin.com/jobs/view/alpinist-utilitar-telecomunicatii-at-net-team-nec-partner-4485021109) | 2026-11-13; [digest](digests/2026-11-13.md) | Distinct Bucharest telecom tower and mast campaign; no reopening claimed |
