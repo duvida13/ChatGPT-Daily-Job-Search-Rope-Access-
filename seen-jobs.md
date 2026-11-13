@@ -1,7 +1,7 @@
 # Seen jobs
 
-Version: **2026-11-13 v1**  
-Stable IDs: **316 distinct records (RA-001–RA-316)**
+Version: **2026-11-14 v1**  
+Stable IDs: **318 distinct records (RA-001–RA-318)**
 
 Background deduplication list used by the scheduled search. This is not a daily publication.
 
@@ -340,6 +340,9 @@ Background deduplication list used by the scheduled search. This is not a daily 
 | RA-315 | Alpin Partner | Alpinist utilitar | Romania | Satu Mare and surrounding area; travelling construction, repair, installation, cleaning and advertising work using rope, ladders, scaffolds or MEWPs | [source](https://www.olx.ro/oferta/loc-de-munca/alpinist-utilitar-satu-mare-IDl1473.html) | live | 2026-11-13 |
 | RA-316 | NET TEAM (NEC Partner) | Alpinist Utilitar Telecomunicații | Romania | Bucharest base; tower and mast telecommunications projects throughout Romania | [source](https://www.romjob.ro/anunturi/locuri-de-munca/it-telecomunicatii/anunt/alpinist-utilitar-telecomunicatii/6d88f18fffee76501i04efgf14d6213e.html) | live | 2026-11-13 |
 
+| RA-317 | WorkPlace Luxembourg / undisclosed client | Cordiste - Luxembourg H/F | Luxembourg | Luxembourg client sites; rope-access maintenance, cleaning, repairs and installations on façades, industrial structures and varied sites | [source](https://www.work-place.lu/offres/cordiste-luxembourg-h-f-2) | live | 2026-11-14 |
+| RA-318 | Encon Staffing Associates / client | Rope Access Technician Level 1 or 2 | United Kingdom | Huddersfield and school-roof projects around West Yorkshire; long-term temporary assignment | [source](https://www.gumtree.com/p/construction-jobs/rope-access-technician-level-1/5419308671) | live | 2026-11-14 |
+
 ## Campaign and availability rules
 
 - Every existing RA ID is already seen: suppress it from future digests unless a verified new hiring episode qualifies below. Never republish merely because publication history is missing.
@@ -414,3 +417,6 @@ This compact background table records only public campaign evidence. Historical 
 
 | RA-315 | 1 | OLX ID 310557197; path IDl1473 | 2026-10-19 | 2026-11-13 | unknown | 2026-11-13; open; [current advert with explicit CV application instructions and working job-specific Apply route](https://www.olx.ro/oferta/loc-de-munca/alpinist-utilitar-satu-mare-IDl1473.html) | 2026-11-13; [digest](digests/2026-11-13.md) | Distinct two-person Satu Mare height-work team recruitment; no reopening claimed |
 | RA-316 | 1 | Romjob ID 1793736765; LinkedIn job 4485021109; Publi24 alias 6d88f18fffee76501i04efgf14d6213e | 2026-11-03 | 2026-11-13 | unknown | 2026-11-13; open; [current legitimate mirror with job-specific CV application route](https://www.romjob.ro/anunturi/locuri-de-munca/it-telecomunicatii/anunt/alpinist-utilitar-telecomunicatii/6d88f18fffee76501i04efgf14d6213e.html) corroborated by [current company listing](https://ro.linkedin.com/jobs/view/alpinist-utilitar-telecomunicatii-at-net-team-nec-partner-4485021109) | 2026-11-13; [digest](digests/2026-11-13.md) | Distinct Bucharest telecom tower and mast campaign; no reopening claimed |
+
+| RA-317 | 1 | WorkPlace reference WP-0343; path cordiste-luxembourg-h-f-2 | 2026-11-04 | 2026-11-14 | unknown | 2026-11-14; open; [authorized recruiter advert with embedded job-specific application form](https://www.work-place.lu/offres/cordiste-luxembourg-h-f-2) | 2026-11-14; [digest](digests/2026-11-14.md) | Distinct Luxembourg rope-access maintenance and installation campaign; client undisclosed; no reopening claimed |
+| RA-318 | 1 | Gumtree advert 5419308671; JobLookup 1106170864537; Contractor UK 529754 | 2026-11-06 | 2026-11-14 | unknown | 2026-11-14; open through 2027-01-06; [legitimate current recruiter advert](https://www.gumtree.com/p/construction-jobs/rope-access-technician-level-1/5419308671) with [working job-specific application route](https://joblookup.com/uk/job/rope-access-technician-level-job-in-holmfirth?j=1106170864537) | 2026-11-14; [digest](digests/2026-11-14.md) | Distinct two-person Huddersfield school-roof campaign starting 2026-11-16; no reopening claimed |
