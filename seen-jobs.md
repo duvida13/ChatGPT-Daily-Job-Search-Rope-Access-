@@ -1,7 +1,7 @@
 # Seen jobs
 
-Version: **2026-11-14 v1**  
-Stable IDs: **318 distinct records (RA-001–RA-318)**
+Version: **2026-11-17 v1**  
+Stable IDs: **320 distinct records (RA-001–RA-320)**
 
 Background deduplication list used by the scheduled search. This is not a daily publication.
 
@@ -343,6 +343,9 @@ Background deduplication list used by the scheduled search. This is not a daily 
 | RA-317 | WorkPlace Luxembourg / undisclosed client | Cordiste - Luxembourg H/F | Luxembourg | Luxembourg client sites; rope-access maintenance, cleaning, repairs and installations on façades, industrial structures and varied sites | [source](https://www.work-place.lu/offres/cordiste-luxembourg-h-f-2) | live | 2026-11-14 |
 | RA-318 | Encon Staffing Associates / client | Rope Access Technician Level 1 or 2 | United Kingdom | Huddersfield and school-roof projects around West Yorkshire; long-term temporary assignment | [source](https://www.gumtree.com/p/construction-jobs/rope-access-technician-level-1/5419308671) | live | 2026-11-14 |
 
+| RA-319 | Max Bögl Bauservice GmbH & Co. KG | Industriekletterer / Servicetechniker (m/w/d) FISAT Level 1 oder Level 2 | Germany | Sengenthal base; concrete, hybrid and steel wind-tower inspection, repair and service across Germany, with optional foreign assignments | [source](https://jobportal.max-boegl.de/Industriekletterer-Servicetechniker-mwd-FISAT-Level-1-oder-de-j2240.html) | live | 2026-11-17 |
+| RA-320 | Ge:Net GmbH | Industriekletterer (m/w/d) mit handwerklicher Ausbildung | Germany | Clausthal-Zellerfeld base; national and international installation, dismantling, service and maintenance of wind-measurement masts | [source](https://www.genetworld.com/de/karriere/stellenangebote.html) | live | 2026-11-17 |
+
 ## Campaign and availability rules
 
 - Every existing RA ID is already seen: suppress it from future digests unless a verified new hiring episode qualifies below. Never republish merely because publication history is missing.
@@ -420,3 +423,6 @@ This compact background table records only public campaign evidence. Historical 
 
 | RA-317 | 1 | WorkPlace reference WP-0343; path cordiste-luxembourg-h-f-2 | 2026-11-04 | 2026-11-14 | unknown | 2026-11-14; open; [authorized recruiter advert with embedded job-specific application form](https://www.work-place.lu/offres/cordiste-luxembourg-h-f-2) | 2026-11-14; [digest](digests/2026-11-14.md) | Distinct Luxembourg rope-access maintenance and installation campaign; client undisclosed; no reopening claimed |
 | RA-318 | 1 | Gumtree advert 5419308671; JobLookup 1106170864537; Contractor UK 529754 | 2026-11-06 | 2026-11-14 | unknown | 2026-11-14; open through 2027-01-06; [legitimate current recruiter advert](https://www.gumtree.com/p/construction-jobs/rope-access-technician-level-1/5419308671) with [working job-specific application route](https://joblookup.com/uk/job/rope-access-technician-level-job-in-holmfirth?j=1106170864537) | 2026-11-14; [digest](digests/2026-11-14.md) | Distinct two-person Huddersfield school-roof campaign starting 2026-11-16; no reopening claimed |
+
+| RA-319 | 1 | Max Bögl job j2240; application form f2240; BA reference 12811-2361028-S; meinestadt ID 260442957 | 2026-11-17 | 2026-11-17 | unknown | 2026-11-17; open; [employer advert](https://jobportal.max-boegl.de/Industriekletterer-Servicetechniker-mwd-FISAT-Level-1-oder-de-j2240.html) with working [job-specific application form](https://jobportal.max-boegl.de/Industriekletterer-Servicetechniker-mwd-FISAT-Level-1-oder-de-f2240.html) | 2026-11-17; [digest](digests/2026-11-17.md) | Distinct permanent Sengenthal-based wind-tower service campaign accepting IRATA Level 1 or 2; no reopening claimed |
+| RA-320 | 1 | genetworld.com/de/karriere/stellenangebote.html; BA reference 10001-1003890305-S | 2026-11-17 | 2026-11-17 | unknown | 2026-11-17; open; [employer vacancy with explicit role-specific application instructions](https://www.genetworld.com/de/karriere/stellenangebote.html), corroborated by [current employer-managed BA listing](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003890305-S) | 2026-11-17; [digest](digests/2026-11-17.md) | Distinct Clausthal-Zellerfeld wind-measurement-mast installation and maintenance campaign; no reopening claimed |
