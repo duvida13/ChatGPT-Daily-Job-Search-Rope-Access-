@@ -1,7 +1,7 @@
 # Seen jobs
 
-Version: **2026-11-17 v1**  
-Stable IDs: **320 distinct records (RA-001–RA-320)**
+Version: **2026-11-18 v1**  
+Stable IDs: **321 distinct records (RA-001–RA-321)**
 
 Background deduplication list used by the scheduled search. This is not a daily publication.
 
@@ -346,6 +346,8 @@ Background deduplication list used by the scheduled search. This is not a daily 
 | RA-319 | Max Bögl Bauservice GmbH & Co. KG | Industriekletterer / Servicetechniker (m/w/d) FISAT Level 1 oder Level 2 | Germany | Sengenthal base; concrete, hybrid and steel wind-tower inspection, repair and service across Germany, with optional foreign assignments | [source](https://jobportal.max-boegl.de/Industriekletterer-Servicetechniker-mwd-FISAT-Level-1-oder-de-j2240.html) | live | 2026-11-17 |
 | RA-320 | Ge:Net GmbH | Industriekletterer (m/w/d) mit handwerklicher Ausbildung | Germany | Clausthal-Zellerfeld base; national and international installation, dismantling, service and maintenance of wind-measurement masts | [source](https://www.genetworld.com/de/karriere/stellenangebote.html) | live | 2026-11-17 |
 
+| RA-321 | SAMSIC HR / undisclosed client | Operatore su fune - manutentore (M/F/X) | Italy | Cinisello Balsamo (Milan); installation, maintenance, conformity checks and testing of fall-protection and lifeline systems; advert also states possible daily travel in Lazio | [source](https://offertelavoro.samsic-hr.it/it/offerte/mod-1269250-un-operatore-su-fune-manutentore-m-f-x) | live | 2026-11-18 |
+
 ## Campaign and availability rules
 
 - Every existing RA ID is already seen: suppress it from future digests unless a verified new hiring episode qualifies below. Never republish merely because publication history is missing.
@@ -426,3 +428,5 @@ This compact background table records only public campaign evidence. Historical 
 
 | RA-319 | 1 | Max Bögl job j2240; application form f2240; BA reference 12811-2361028-S; meinestadt ID 260442957 | 2026-11-17 | 2026-11-17 | unknown | 2026-11-17; open; [employer advert](https://jobportal.max-boegl.de/Industriekletterer-Servicetechniker-mwd-FISAT-Level-1-oder-de-j2240.html) with working [job-specific application form](https://jobportal.max-boegl.de/Industriekletterer-Servicetechniker-mwd-FISAT-Level-1-oder-de-f2240.html) | 2026-11-17; [digest](digests/2026-11-17.md) | Distinct permanent Sengenthal-based wind-tower service campaign accepting IRATA Level 1 or 2; no reopening claimed |
 | RA-320 | 1 | genetworld.com/de/karriere/stellenangebote.html; BA reference 10001-1003890305-S | 2026-11-17 | 2026-11-17 | unknown | 2026-11-17; open; [employer vacancy with explicit role-specific application instructions](https://www.genetworld.com/de/karriere/stellenangebote.html), corroborated by [current employer-managed BA listing](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003890305-S) | 2026-11-17; [digest](digests/2026-11-17.md) | Distinct Clausthal-Zellerfeld wind-measurement-mast installation and maintenance campaign; no reopening claimed |
+
+| RA-321 | 1 | Samsic HR requisition MOD-1269250 | 2026-11-14 | 2026-11-18 | unknown | 2026-11-18; open; [authorized recruiter advert with embedded job-specific simple application route](https://offertelavoro.samsic-hr.it/it/offerte/mod-1269250-un-operatore-su-fune-manutentore-m-f-x), corroborated by the recruiter’s current construction-vacancy index | 2026-11-18; [digest](digests/2026-11-18.md) | Distinct Cinisello Balsamo intake for an undisclosed fall-protection and lifeline-systems client under requisition MOD-1269250; no reopening claimed |
