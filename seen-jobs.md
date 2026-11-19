@@ -1,7 +1,7 @@
 # Seen jobs
 
-Version: **2026-11-18 v1**  
-Stable IDs: **321 distinct records (RA-001–RA-321)**
+Version: **2026-11-20 v1**  
+Stable IDs: **322 distinct records (RA-001–RA-322)**
 
 Background deduplication list used by the scheduled search. This is not a daily publication.
 
@@ -347,6 +347,7 @@ Background deduplication list used by the scheduled search. This is not a daily 
 | RA-320 | Ge:Net GmbH | Industriekletterer (m/w/d) mit handwerklicher Ausbildung | Germany | Clausthal-Zellerfeld base; national and international installation, dismantling, service and maintenance of wind-measurement masts | [source](https://www.genetworld.com/de/karriere/stellenangebote.html) | live | 2026-11-17 |
 
 | RA-321 | SAMSIC HR / undisclosed client | Operatore su fune - manutentore (M/F/X) | Italy | Cinisello Balsamo (Milan); installation, maintenance, conformity checks and testing of fall-protection and lifeline systems; advert also states possible daily travel in Lazio | [source](https://offertelavoro.samsic-hr.it/it/offerte/mod-1269250-un-operatore-su-fune-manutentore-m-f-x) | live | 2026-11-18 |
+| RA-322 | PROSPECT GROUP Sp. z o.o. | Alpinista Przemysłowy | Poland | Jastrzębie-Zdrój base; anticorrosion and assembly/dismantling work at height with business travel | [source](https://pl.indeed.com/viewjob?jk=2b7d37c7d83ba66b) | live | 2026-11-20 |
 
 ## Campaign and availability rules
 
@@ -430,3 +431,5 @@ This compact background table records only public campaign evidence. Historical 
 | RA-320 | 1 | genetworld.com/de/karriere/stellenangebote.html; BA reference 10001-1003890305-S | 2026-11-17 | 2026-11-17 | unknown | 2026-11-17; open; [employer vacancy with explicit role-specific application instructions](https://www.genetworld.com/de/karriere/stellenangebote.html), corroborated by [current employer-managed BA listing](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003890305-S) | 2026-11-17; [digest](digests/2026-11-17.md) | Distinct Clausthal-Zellerfeld wind-measurement-mast installation and maintenance campaign; no reopening claimed |
 
 | RA-321 | 1 | Samsic HR requisition MOD-1269250 | 2026-11-14 | 2026-11-18 | unknown | 2026-11-18; open; [authorized recruiter advert with embedded job-specific simple application route](https://offertelavoro.samsic-hr.it/it/offerte/mod-1269250-un-operatore-su-fune-manutentore-m-f-x), corroborated by the recruiter’s current construction-vacancy index | 2026-11-18; [digest](digests/2026-11-18.md) | Distinct Cinisello Balsamo intake for an undisclosed fall-protection and lifeline-systems client under requisition MOD-1269250; no reopening claimed |
+
+| RA-322 | 1 | Indeed jk 2b7d37c7d83ba66b; employer career page renowacje.net.pl/en/work/ | 2026-11-20 | 2026-11-20 | unknown | 2026-11-20; open; [current legitimate mirror with explicit job-specific application instructions](https://pl.indeed.com/viewjob?jk=2b7d37c7d83ba66b), corroborated by [employer career listing](https://renowacje.net.pl/en/work/) | 2026-11-20; [digest](digests/2026-11-20.md) | Distinct Jastrzębie-Zdrój industrial-climber recruitment for anticorrosion and structural assembly/dismantling; no reopening claimed |
