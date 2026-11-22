@@ -1,6 +1,6 @@
 # Seen jobs
 
-Version: **2026-11-20 v1**  
+Version: **2026-11-23 v1**  
 Stable IDs: **322 distinct records (RA-001–RA-322)**
 
 Background deduplication list used by the scheduled search. This is not a daily publication.
@@ -77,7 +77,7 @@ Background deduplication list used by the scheduled search. This is not a daily 
 | RA-068 | Rope-Techs Group | Pomocnik Alpinisty Przemysłowego | Poland | Tychy / hybrid-mobile | [source](https://www.pracuj.pl/praca/alpinista%20przemys%C5%82owy%3Bkw) | expired | 2026-09-11 |
 | RA-069 | Aerones | Rope Access Technician | Europe | Germany, France, Poland, Romania and Spain; travelling wind projects | [source](https://apply.workable.com/aerones/j/C5AA4AA02F) | live | 2026-10-02 |
 | RA-070 | Muehlhan Wind Service | Blade Repair Technicians – Project L167 | Sweden / Finland / Greece | Scandinavian and Greek projects | [source](https://techcareer.muehlhan.com/jobs/u-8dd4f9cb-f35a-466b-b0b8-7c536dce1250) | needs-revalidation | 2026-08-12 |
-| RA-071 | Agua-Clean Services | IRATA Level 1 Rope Access Technicians | Ireland | Dublin / throughout Ireland | [source](https://ie.linkedin.com/jobs/view/irata-level-1-rope-access-technicians-dublin-ireland-at-agua-clean-services-4438202059) | live | 2026-10-05 |
+| RA-071 | Agua-Clean Services | IRATA Level 1 Rope Access Technicians | Ireland | Dublin / throughout Ireland | [source](https://ie.linkedin.com/jobs/view/irata-level-1-rope-access-technicians-dublin-ireland-at-agua-clean-services-4438202059) | expired | 2026-11-23 |
 | RA-072 | Accent Group/client | Cordiste H/F/X | Belgium | Watermael-Boitsfort, Brussels | [source](https://www.actiris.brussels/fr/citoyens/detail-offre-d-emploi/?reference=5878593) | needs-revalidation | 2026-08-12 |
 | RA-073 | Abalone/client | Cordiste H/F/X | Belgium | Andenne | [source](https://promandenne.be/cordiste-h-f-2/) | needs-revalidation | 2026-08-12 |
 | RA-074 | Seven Rope Access | Alpinista predial | Portugal | Coimbra | [source](https://pt.linkedin.com/jobs/view/alpinista-predial-at-seven-rope-access-4378281404) | needs-revalidation | 2026-08-12 |
@@ -433,3 +433,4 @@ This compact background table records only public campaign evidence. Historical 
 | RA-321 | 1 | Samsic HR requisition MOD-1269250 | 2026-11-14 | 2026-11-18 | unknown | 2026-11-18; open; [authorized recruiter advert with embedded job-specific simple application route](https://offertelavoro.samsic-hr.it/it/offerte/mod-1269250-un-operatore-su-fune-manutentore-m-f-x), corroborated by the recruiter’s current construction-vacancy index | 2026-11-18; [digest](digests/2026-11-18.md) | Distinct Cinisello Balsamo intake for an undisclosed fall-protection and lifeline-systems client under requisition MOD-1269250; no reopening claimed |
 
 | RA-322 | 1 | Indeed jk 2b7d37c7d83ba66b; employer career page renowacje.net.pl/en/work/ | 2026-11-20 | 2026-11-20 | unknown | 2026-11-20; open; [current legitimate mirror with explicit job-specific application instructions](https://pl.indeed.com/viewjob?jk=2b7d37c7d83ba66b), corroborated by [employer career listing](https://renowacje.net.pl/en/work/) | 2026-11-20; [digest](digests/2026-11-20.md) | Distinct Jastrzębie-Zdrój industrial-climber recruitment for anticorrosion and structural assembly/dismantling; no reopening claimed |
+| RA-071 | 1 | LinkedIn job 4438202059; Agua-Clean Services | unknown | 2026-10-05 | 2026-11-23; advert states “No longer accepting applications”; [evidence](https://ie.linkedin.com/jobs/view/irata-level-1-rope-access-technicians-dublin-ireland-at-agua-clean-services-4438202059) | 2026-11-23; closed; [advert](https://ie.linkedin.com/jobs/view/irata-level-1-rope-access-technicians-dublin-ireland-at-agua-clean-services-4438202059) | unknown | No reopening evidence |
