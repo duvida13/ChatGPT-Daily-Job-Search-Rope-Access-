@@ -1,7 +1,7 @@
 # Seen jobs
 
-Version: **2026-11-23 v1**  
-Stable IDs: **322 distinct records (RA-001–RA-322)**
+Version: **2026-11-24 v1**  
+Stable IDs: **323 distinct records (RA-001–RA-323)**
 
 Background deduplication list used by the scheduled search. This is not a daily publication.
 
@@ -348,6 +348,7 @@ Background deduplication list used by the scheduled search. This is not a daily 
 
 | RA-321 | SAMSIC HR / undisclosed client | Operatore su fune - manutentore (M/F/X) | Italy | Cinisello Balsamo (Milan); installation, maintenance, conformity checks and testing of fall-protection and lifeline systems; advert also states possible daily travel in Lazio | [source](https://offertelavoro.samsic-hr.it/it/offerte/mod-1269250-un-operatore-su-fune-manutentore-m-f-x) | live | 2026-11-18 |
 | RA-322 | PROSPECT GROUP Sp. z o.o. | Alpinista Przemysłowy | Poland | Jastrzębie-Zdrój base; anticorrosion and assembly/dismantling work at height with business travel | [source](https://pl.indeed.com/viewjob?jk=2b7d37c7d83ba66b) | live | 2026-11-20 |
+| RA-323 | RPG Dachbau GmbH | Industriekletterer m/w/d, Berlin, Vollzeit | Germany | Berlin; limited Germany-wide assignments; roof and façade inspection, cleaning, repairs and safety work | [source](https://www.rpg-gruppe.de/industriekletterer-m-w-d/) | live | 2026-11-24 |
 
 ## Campaign and availability rules
 
@@ -434,3 +435,4 @@ This compact background table records only public campaign evidence. Historical 
 
 | RA-322 | 1 | Indeed jk 2b7d37c7d83ba66b; employer career page renowacje.net.pl/en/work/ | 2026-11-20 | 2026-11-20 | unknown | 2026-11-20; open; [current legitimate mirror with explicit job-specific application instructions](https://pl.indeed.com/viewjob?jk=2b7d37c7d83ba66b), corroborated by [employer career listing](https://renowacje.net.pl/en/work/) | 2026-11-20; [digest](digests/2026-11-20.md) | Distinct Jastrzębie-Zdrój industrial-climber recruitment for anticorrosion and structural assembly/dismantling; no reopening claimed |
 | RA-071 | 1 | LinkedIn job 4438202059; Agua-Clean Services | unknown | 2026-10-05 | 2026-11-23; advert states “No longer accepting applications”; [evidence](https://ie.linkedin.com/jobs/view/irata-level-1-rope-access-technicians-dublin-ireland-at-agua-clean-services-4438202059) | 2026-11-23; closed; [advert](https://ie.linkedin.com/jobs/view/irata-level-1-rope-access-technicians-dublin-ireland-at-agua-clean-services-4438202059) | unknown | No reopening evidence |
+| RA-323 | 1 | RPG employer advert industriekletterer-m-w-d; BA reference 10000-1208374295-S | 2026-10-21 | 2026-11-24 | unknown | 2026-11-24; open; [employer advert with explicit role-specific application instructions](https://www.rpg-gruppe.de/industriekletterer-m-w-d/) and listed on the [current employer jobs index](https://www.rpg-gruppe.de/jobs/) | 2026-11-24; [digest](digests/2026-11-24.md) | Distinct Berlin roof and façade industrial-climber recruitment; no reopening claimed |
