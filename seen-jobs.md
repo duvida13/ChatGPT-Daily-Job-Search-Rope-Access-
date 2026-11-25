@@ -1,7 +1,7 @@
 # Seen jobs
 
-Version: **2026-11-25 v1**  
-Stable IDs: **324 distinct records (RA-001–RA-324)**
+Version: **2026-11-26 v1**  
+Stable IDs: **325 distinct records (RA-001–RA-325)**
 
 Background deduplication list used by the scheduled search. This is not a daily publication.
 
@@ -352,6 +352,8 @@ Background deduplication list used by the scheduled search. This is not a daily 
 
 | RA-324 | Ediliziaerea Srl | Tecnico Operatore su Fune | Italy | Desio (MB); assigned worksites; façade, glazing, roof, gutter, lifeline and fall-protection work using rope access | [source](https://it.indeed.com/viewjob?jk=b00e342ec2f4c77e) | live | 2026-11-25 |
 
+| RA-325 | Vertikalia Trabajos Verticales S.L.U. | Técnico/a en Trabajos Verticales | Spain | Principality of Asturias; safety-at-height, construction, civil-works and industrial projects; early-2027 start | [source](https://www.anetva.org/oferta-de-empleo/tecnico-a-en-trabajos-verticales-3/) | live | 2026-11-26 |
+
 ## Campaign and availability rules
 
 - Every existing RA ID is already seen: suppress it from future digests unless a verified new hiring episode qualifies below. Never republish merely because publication history is missing.
@@ -439,3 +441,4 @@ This compact background table records only public campaign evidence. Historical 
 | RA-071 | 1 | LinkedIn job 4438202059; Agua-Clean Services | unknown | 2026-10-05 | 2026-11-23; advert states “No longer accepting applications”; [evidence](https://ie.linkedin.com/jobs/view/irata-level-1-rope-access-technicians-dublin-ireland-at-agua-clean-services-4438202059) | 2026-11-23; closed; [advert](https://ie.linkedin.com/jobs/view/irata-level-1-rope-access-technicians-dublin-ireland-at-agua-clean-services-4438202059) | unknown | No reopening evidence |
 | RA-323 | 1 | RPG employer advert industriekletterer-m-w-d; BA reference 10000-1208374295-S | 2026-10-21 | 2026-11-24 | unknown | 2026-11-24; open; [employer advert with explicit role-specific application instructions](https://www.rpg-gruppe.de/industriekletterer-m-w-d/) and listed on the [current employer jobs index](https://www.rpg-gruppe.de/jobs/) | 2026-11-24; [digest](digests/2026-11-24.md) | Distinct Berlin roof and façade industrial-climber recruitment; no reopening claimed |
 | RA-324 | 1 | Indeed jk b00e342ec2f4c77e; Ediliziaerea Srl | 2026-11-25 | 2026-11-25 | unknown | 2026-11-25; open; [current employer-authored advert with explicit role-specific application instructions](https://it.indeed.com/viewjob?jk=b00e342ec2f4c77e) | 2026-11-25; [digest](digests/2026-11-25.md) | Distinct Desio rope-access technician recruitment for façade, roof and fall-protection work; no reopening claimed |
+| RA-325 | 1 | ANETVA tecnico-a-en-trabajos-verticales-3; Vertikalia employer careers form | 2026-11-26 | 2026-11-26 | unknown | 2026-11-26; open for one early-2027 vacancy; [authorized industry-association advert with explicit employer application instructions](https://www.anetva.org/oferta-de-empleo/tecnico-a-en-trabajos-verticales-3/) and active [employer CV form](https://vertikalia.es/contacto/trabaja-con-nosotros/) | 2026-11-26; [digest](digests/2026-11-26.md) | Distinct Vertikalia Asturias recruitment for one permanent rope-access technician; no reopening claimed |
